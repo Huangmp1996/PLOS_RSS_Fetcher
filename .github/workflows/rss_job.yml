@@ -1,10 +1,10 @@
-name: PLOS RSS Fetcher & LLM Filter
+name: PLOS RSS Fetcher, LLM Filter & RSS Generator
 
 on:
   schedule:
     # 每天 UTC 00:00 (北京时间 08:00) 自动触发
     - cron: '0 0 * * *'
-  workflow_dispatch: # 支持在 GitHub 页面手动点击触发
+  workflow_dispatch:
 
 jobs:
   run-rss-script:
@@ -24,17 +24,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Fetch & LLM Script
+      - name: Run Fetch, LLM & RSS Script
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: "https://api.deepseek.com"
         run: python main.py
 
-      - name: Commit and Push Updated Data
+      - name: Commit and Push Updated Feed & Data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add history.json processed_articles.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update processed articles and history [skip ci]" && git push)
+          # 暂存 history.json, processed_articles.json 以及生成的 feed.xml
+          git add history.json processed_articles.json feed.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed and processed articles [skip ci]" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
