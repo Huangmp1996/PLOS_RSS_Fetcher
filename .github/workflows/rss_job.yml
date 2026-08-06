@@ -1,43 +1,40 @@
-name: PLOS RSS Fetcher
+name: PLOS RSS Fetcher & LLM Filter
 
-# 触发条件：定时触发（cron）+ 手动触发（workflow_dispatch）
 on:
   schedule:
-    # UTC 时间每天 00:00 运行（对应北京时间 08:00）
+    # 每天 UTC 00:00 (北京时间 08:00) 自动触发
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 支持在 GitHub 页面手动点击触发
 
 jobs:
   run-rss-script:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 检出仓库代码
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. 配置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. 安装依赖
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. 执行 Python 脚本
-      - name: Run Fetch Script
+      - name: Run Fetch & LLM Script
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: "https://api.deepseek.com"
         run: python main.py
 
-      # 5. 提交并推送更新后的 history.json 回仓库
-      - name: Commit and Push History
+      - name: Commit and Push Updated Data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add history.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update history.json [skip ci]" && git push)
+          git add history.json processed_articles.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update processed articles and history [skip ci]" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
