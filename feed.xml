@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PLOS Comp Bio - 生态学灵感筛选源</title><link>https://journals.plos.org/ploscompbiol/</link><description>基于 DeepSeek API 自动筛选的生态学及交叉学科算法启发文献订阅源</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Thu, 06 Aug 2026 03:25:30 +0000</lastBuildDate></channel></rss>
