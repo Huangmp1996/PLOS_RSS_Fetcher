@@ -141,12 +141,20 @@ def main():
             if article_id not in history:
                 title = entry.title
                 link = entry.link
-                summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
-                published = getattr(entry, 'published', '')
+                
+                # 1. 提取原始 description/summary
+                raw_summary = getattr(entry, 'description', getattr(entry, 'summary', ''))
+                
+                # 2. 清理其中的 HTML 标签（如 <span class="paragraphSection">），还原为纯文本 Abstract
+                clean_summary = ""
+                if raw_summary:
+                    soup = BeautifulSoup(raw_summary, "html.parser")
+                    clean_summary = soup.get_text(separator=' ', strip=True)
 
                 print(f"正在分析新文章: {title}")
                 
-                analysis = analyze_article_with_llm(title, summary, journal_title)
+                # 3. 将干净的摘要直接送入 DeepSeek API 分析
+                analysis = analyze_article_with_llm(title, clean_summary, journal_title)
                 
                 if analysis and analysis.get("is_relevant"):
                     article_data = {
@@ -156,10 +164,10 @@ def main():
                         "title_zh": analysis.get("title_zh", title),
                         "summary_zh": analysis.get("summary_zh", ""),
                         "link": link,
-                        "summary_en": summary,
+                        "summary_en": clean_summary,
                         "relevance_score": analysis.get("relevance_score", 0),
                         "inspiration": analysis.get("inspiration", ""),
-                        "published": published
+                        "published": getattr(entry, 'published', '')
                     }
                     new_filtered_articles.append(article_data)
                     print(f" -> [匹配成功] 得分: {analysis.get('relevance_score')} | 中文标题: {analysis.get('title_zh')}")
@@ -175,6 +183,6 @@ def main():
 
     save_json(HISTORY_FILE, list(history))
     generate_rss_feed(processed_articles)
-
+    
 if __name__ == "__main__":
     main()
