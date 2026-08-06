@@ -3,7 +3,7 @@ name: PLOS RSS Fetcher, LLM Filter & RSS Generator
 on:
   schedule:
     # 每天 UTC 00:00 (北京时间 08:00) 自动触发
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 jobs:
