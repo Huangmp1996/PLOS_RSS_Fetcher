@@ -2,14 +2,16 @@ import json
 import os
 import feedparser
 from openai import OpenAI
+from feedgen.feed import FeedGenerator
+from datetime import datetime, timezone
 
 FEED_URL = "https://journals.plos.org/ploscompbiol/feed/atom"
 HISTORY_FILE = "history.json"
 OUTPUT_FILE = "processed_articles.json"
+RSS_OUTPUT_FILE = "feed.xml"
 
 # 初始化 DeepSeek 客户端
 api_key = os.getenv("LLM_API_KEY")
-# DeepSeek 官方 Base URL 为 https://api.deepseek.com
 base_url = os.getenv("LLM_BASE_URL", "https://api.deepseek.com")
 
 client = OpenAI(api_key=api_key, base_url=base_url) if api_key else None
@@ -56,7 +58,7 @@ def analyze_article_with_llm(title, summary):
 
     try:
         response = client.chat.completions.create(
-            model="deepseek-chat",  # 指定 DeepSeek-V3 模型
+            model="deepseek-chat",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
@@ -70,6 +72,42 @@ def analyze_article_with_llm(title, summary):
         print(f"调用 DeepSeek API 失败: {e}")
         return None
 
+def generate_rss_feed(articles):
+    """将过滤筛选后的结构化数据转换为标准 RSS 2.0 XML 格式"""
+    fg = FeedGenerator()
+    fg.title('PLOS Comp Bio - 生态学灵感筛选源')
+    fg.link(href='https://journals.plos.org/ploscompbiol/', rel='alternate')
+    fg.description('基于 DeepSeek API 自动筛选的生态学及交叉学科算法启发文献订阅源')
+    fg.language('zh-CN')
+
+    for art in articles:
+        fe = fg.add_entry()
+        fe.id(art['id'])
+        # 标明中文标题与相关度得分
+        fe.title(f"[{art['relevance_score']}分] {art['title_zh']}")
+        fe.link(href=art['link'])
+        
+        # 构建富文本描述，方便在 RSS 阅读器中直接阅读灵感摘要与原文英文摘要
+        content_html = f"""
+        <h3>【生态学借鉴价值与启发】</h3>
+        <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
+        <p>{art['inspiration']}</p>
+        <hr/>
+        <h3>【英文原标题】</h3>
+        <p>{art['title_en']}</p>
+        <h3>【英文原文摘要】</h3>
+        <p>{art['summary_en']}</p>
+        <hr/>
+        <p><a href="{art['link']}">查看论文原文网页</a></p>
+        """
+        fe.description(content_html)
+        
+        # 设置发布时间（若无具体发布时间则使用当前时间）
+        fe.pubDate(datetime.now(timezone.utc))
+
+    fg.rss_file(RSS_OUTPUT_FILE)
+    print(f"成功生成 RSS 订阅文件: {RSS_OUTPUT_FILE}")
+
 def main():
     history = set(load_json(HISTORY_FILE, []))
     processed_articles = load_json(OUTPUT_FILE, [])
@@ -82,7 +120,6 @@ def main():
     for entry in feed.entries:
         article_id = getattr(entry, 'id', entry.link)
         
-        # 仅处理未读文章
         if article_id not in history:
             title = entry.title
             link = entry.link
@@ -93,7 +130,6 @@ def main():
             
             analysis = analyze_article_with_llm(title, summary)
             
-            # 筛选符合条件（is_relevant == True）的文章
             if analysis and analysis.get("is_relevant"):
                 article_data = {
                     "id": article_id,
@@ -106,21 +142,23 @@ def main():
                     "published": published
                 }
                 new_filtered_articles.append(article_data)
-                print(f" -> [匹配成功] 相关度评分: {analysis.get('relevance_score')} | 中文标题: {analysis.get('title_zh')}")
+                print(f" -> [匹配成功] 得分: {analysis.get('relevance_score')} | 中文标题: {analysis.get('title_zh')}")
             else:
                 print(" -> [过滤剔除] 判定与生态学无关。")
 
-            # 标记为已处理
             history.add(article_id)
 
-    # 追加新文章并保留最近 100 条记录
+    # 如果有新文章，更新历史记录并保存
     if new_filtered_articles:
-        updated_articles = (new_filtered_articles + processed_articles)[:100]
-        save_json(OUTPUT_FILE, updated_articles)
+        processed_articles = (new_filtered_articles + processed_articles)[:100]
+        save_json(OUTPUT_FILE, processed_articles)
         print(f"\n成功保留 {len(new_filtered_articles)} 篇新论文。")
 
-    # 更新已读记录
+    # 保存历史阅读 ID
     save_json(HISTORY_FILE, list(history))
+    
+    # 重新生成 RSS 文件（保证 feed.xml 始终反映最新的 processed_articles.json）
+    generate_rss_feed(processed_articles)
 
 if __name__ == "__main__":
     main()
