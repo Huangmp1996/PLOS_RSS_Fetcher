@@ -80,30 +80,35 @@ def generate_rss_feed(articles):
     fg.description('基于 DeepSeek API 自动筛选的生态学及交叉学科算法启发文献订阅源')
     fg.language('zh-CN')
 
-    for art in articles:
+    # 【新增逻辑】如果当前没有匹配成功的文章，添加一条保底占位条目，防止生成空 RSS
+    if not articles:
         fe = fg.add_entry()
-        fe.id(art['id'])
-        # 标明中文标题与相关度得分
-        fe.title(f"[{art['relevance_score']}分] {art['title_zh']}")
-        fe.link(href=art['link'])
-        
-        # 构建富文本描述，方便在 RSS 阅读器中直接阅读灵感摘要与原文英文摘要
-        content_html = f"""
-        <h3>【生态学借鉴价值与启发】</h3>
-        <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
-        <p>{art['inspiration']}</p>
-        <hr/>
-        <h3>【英文原标题】</h3>
-        <p>{art['title_en']}</p>
-        <h3>【英文原文摘要】</h3>
-        <p>{art['summary_en']}</p>
-        <hr/>
-        <p><a href="{art['link']}">查看论文原文网页</a></p>
-        """
-        fe.description(content_html)
-        
-        # 设置发布时间（若无具体发布时间则使用当前时间）
+        fe.id('system-notice-empty')
+        fe.title('【系统通知】订阅源初始化成功，暂无匹配文章')
+        fe.link(href='https://journals.plos.org/ploscompbiol/')
+        fe.description('系统已成功运行并监控 PLOS Computational Biology。本次运行未发现与生态学强相关的文章，将在下次更新时继续筛选。')
         fe.pubDate(datetime.now(timezone.utc))
+    else:
+        for art in articles:
+            fe = fg.add_entry()
+            fe.id(art['id'])
+            fe.title(f"[{art['relevance_score']}分] {art['title_zh']}")
+            fe.link(href=art['link'])
+            
+            content_html = f"""
+            <h3>【生态学借鉴价值与启发】</h3>
+            <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
+            <p>{art['inspiration']}</p>
+            <hr/>
+            <h3>【英文原标题】</h3>
+            <p>{art['title_en']}</p>
+            <h3>【英文原文摘要】</h3>
+            <p>{art['summary_en']}</p>
+            <hr/>
+            <p><a href="{art['link']}">查看论文原文网页</a></p>
+            """
+            fe.description(content_html)
+            fe.pubDate(datetime.now(timezone.utc))
 
     fg.rss_file(RSS_OUTPUT_FILE)
     print(f"成功生成 RSS 订阅文件: {RSS_OUTPUT_FILE}")
