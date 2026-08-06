@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>生态学与计算交叉科学 - 灵感筛选源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动从多本顶级期刊筛选的生态学及交叉学科启发文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Thu, 06 Aug 2026 03:42:12 +0000</lastBuildDate><item><title>[3分][Journal of The Royal Society Interface Current Issue] 用于动态和可扩展细胞培养的多传感器连续流生物反应器</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>生态学与计算交叉科学 - 灵感筛选源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动从多本顶级期刊筛选的生态学及交叉学科启发文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Thu, 06 Aug 2026 03:51:27 +0000</lastBuildDate><item><title>[3分][Journal of The Royal Society Interface Current Issue] 用于动态和可扩展细胞培养的多传感器连续流生物反应器</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -16,7 +16,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该生物反应器系统集成了多传感器实时监测和反馈控制，其模块化设计和连续流旋转架构可类比于生态学中的连续培养系统（如恒化器），为研究微生物种群动态、资源竞争和环境响应提供了可调控的实验平台。其Python接口和数据处理方法可迁移至生态学中的自动化数据采集与实时控制，用于模拟环境梯度或扰动实验，促进生态学研究的可重复性和高通量筛选。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</guid><pubDate>Thu, 06 Aug 2026 03:42:12 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 炎症因子运输驱动动脉瘤炎症模型中的巨噬细胞聚集</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</guid><pubDate>Thu, 06 Aug 2026 03:51:27 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 炎症因子运输驱动动脉瘤炎症模型中的巨噬细胞聚集</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -33,7 +33,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究构建的基于正反馈机制的细胞-因子相互作用模型，与生态学中的种群动态和空间自组织模型高度相似，可借鉴其建模思路来模拟物种扩散、资源竞争或疾病传播中的空间模式形成。其提出的生产-运输比无量纲数，可用于生态系统中物质流或能量流对种群分布影响的定量分析，例如预测浮游植物斑块的形成或入侵物种的扩散前沿。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</guid><pubDate>Thu, 06 Aug 2026 03:42:12 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 异议增强贝叶斯从众决策者群体的可信度</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</guid><pubDate>Thu, 06 Aug 2026 03:51:27 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 异议增强贝叶斯从众决策者群体的可信度</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -50,7 +50,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过贝叶斯模型分析群体决策中的从众偏差，揭示了适度异议对群体可靠性的作用，其方法论可迁移至生态学中的群体行为建模，如动物群体迁徙或觅食决策，有助于理解群体智能与信息传递机制。此外，其结论对生态保护中专家评估的可信度判断具有启示，可用于优化生态管理决策中的共识与异议平衡。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</guid><pubDate>Thu, 06 Aug 2026 03:42:12 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 肌成纤维细胞减缓混合细胞单层中的缺陷重组动力学</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</guid><pubDate>Thu, 06 Aug 2026 03:51:27 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 肌成纤维细胞减缓混合细胞单层中的缺陷重组动力学</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -67,4 +67,4 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究利用拓扑缺陷分析细胞单层中的有序性和动力学，其方法可迁移至生态学中种群空间格局的分析，例如通过类似缺陷检测识别生态群落中的结构异常区域。此外，细胞类型偏好特定缺陷位点的发现，可类比于生态学中物种对特定微生境的偏好，有助于理解物种共存和群落组装规则。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</guid><pubDate>Thu, 06 Aug 2026 03:42:12 +0000</pubDate></item></channel></rss>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</guid><pubDate>Thu, 06 Aug 2026 03:51:27 +0000</pubDate></item></channel></rss>
