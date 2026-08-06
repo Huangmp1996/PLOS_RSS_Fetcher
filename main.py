@@ -5,7 +5,7 @@ from openai import OpenAI
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 
-# 1. 定义多订阅源列表（可继续追加其他期刊 RSS）
+# 定义多订阅源列表
 FEED_URLS = [
     "https://journals.plos.org/ploscompbiol/feed/atom",
     "https://royalsocietypublishing.org/rss/site_1000019/1000012.xml"
@@ -35,7 +35,7 @@ def save_json(filepath, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def analyze_article_with_llm(title, summary, journal_title=""):
-    """调用 DeepSeek API 进行筛选、翻译与灵感提炼"""
+    """调用 DeepSeek API 进行筛选、翻译（标题与摘要）与灵感提炼"""
     if not client:
         print("警告: 未检测到 LLM_API_KEY，跳过大模型筛选。")
         return None
@@ -49,7 +49,7 @@ def analyze_article_with_llm(title, summary, journal_title=""):
 
 请进行以下评估与处理：
 1. 确定性分类：判断该研究是否属于“生态学/环境科学直接研究”，或者是否包含“可迁移至生态学领域的方法论（如种群动态建模、空间模式识别、复杂网络分析、遥感与图像识别算法等）”？
-2. 中文翻译：将标题翻译为准确、专业的中文标题。
+2. 中文翻译：将标题翻译为准确、专业的中文标题，并将英文摘要翻译为通顺专业的中文摘要。
 3. 灵感与应用点：若相关，用 2-3 句话解释该方法或结论对生态学研究的具体借鉴价值与潜在应用场景；若完全无关，填“无”。
 
 必须严格按照以下 JSON 格式输出，不要包含任何 markdown 标记或其他文本：
@@ -57,6 +57,7 @@ def analyze_article_with_llm(title, summary, journal_title=""):
   "is_relevant": true或false,
   "relevance_score": 1到5的整数,
   "title_zh": "中文标题",
+  "summary_zh": "中文摘要翻译",
   "inspiration": "灵感与应用点分析（中文）"
 }}
 """
@@ -78,7 +79,7 @@ def analyze_article_with_llm(title, summary, journal_title=""):
         return None
 
 def generate_rss_feed(articles):
-    """生成聚合 RSS 订阅源"""
+    """生成排版优化后的聚合 RSS 订阅源"""
     fg = FeedGenerator()
     fg.title('生态学与计算交叉科学 - 灵感筛选源')
     fg.link(href='https://github.com/', rel='alternate')
@@ -96,22 +97,27 @@ def generate_rss_feed(articles):
         for art in articles:
             fe = fg.add_entry()
             fe.id(art['id'])
-            # 标题中标明来源期刊
             fe.title(f"[{art['relevance_score']}分][{art.get('source_journal', '期刊')}] {art['title_zh']}")
             fe.link(href=art['link'])
             
+            # 排版顺序调整：英文标题 -> 中文标题 -> 英文摘要 -> 中文摘要 -> 借鉴价值与启发
             content_html = f"""
-            <h3>【生态学借鉴价值与启发】</h3>
             <p><strong>来源期刊：</strong> {art.get('source_journal', '未知期刊')}</p>
-            <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
-            <p>{art['inspiration']}</p>
+            <p><a href="{art['link']}">查看论文原文网页</a></p>
             <hr/>
             <h3>【英文原标题】</h3>
             <p>{art['title_en']}</p>
+            <h3>【中文标题】</h3>
+            <p>{art['title_zh']}</p>
+            <hr/>
             <h3>【英文原文摘要】</h3>
             <p>{art['summary_en']}</p>
+            <h3>【中文摘要翻译】</h3>
+            <p>{art.get('summary_zh', '暂无中文摘要')}</p>
             <hr/>
-            <p><a href="{art['link']}">查看论文原文网页</a></p>
+            <h3>【生态学借鉴价值与启发】</h3>
+            <p><strong>相关度评分：</strong> {art['relevance_score']} / 5</p>
+            <p>{art['inspiration']}</p>
             """
             fe.description(content_html)
             fe.pubDate(datetime.now(timezone.utc))
@@ -124,11 +130,9 @@ def main():
     processed_articles = load_json(OUTPUT_FILE, [])
     new_filtered_articles = []
 
-    # 2. 循环遍历每一个订阅源
     for feed_url in FEED_URLS:
         print(f"\n======== 开始解析订阅源: {feed_url} ========")
         feed = feedparser.parse(feed_url)
-        # 获取期刊名称（若获取不到则赋予默认名称）
         journal_title = getattr(feed.feed, 'title', 'Academic Journal')
 
         for entry in feed.entries:
@@ -137,7 +141,6 @@ def main():
             if article_id not in history:
                 title = entry.title
                 link = entry.link
-                # 兼容 Atom 的 summary/content 以及 RSS 2.0 的 description
                 summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
                 published = getattr(entry, 'published', '')
 
@@ -151,6 +154,7 @@ def main():
                         "source_journal": journal_title,
                         "title_en": title,
                         "title_zh": analysis.get("title_zh", title),
+                        "summary_zh": analysis.get("summary_zh", ""),
                         "link": link,
                         "summary_en": summary,
                         "relevance_score": analysis.get("relevance_score", 0),
@@ -164,15 +168,12 @@ def main():
 
                 history.add(article_id)
 
-    # 3. 汇总合并新旧记录（保留最新的 150 条）
     if new_filtered_articles:
         processed_articles = (new_filtered_articles + processed_articles)[:150]
         save_json(OUTPUT_FILE, processed_articles)
         print(f"\n新增 {len(new_filtered_articles)} 篇符合要求的论文。")
 
     save_json(HISTORY_FILE, list(history))
-    
-    # 重新生成聚合 RSS 文件
     generate_rss_feed(processed_articles)
 
 if __name__ == "__main__":
