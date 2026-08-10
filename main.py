@@ -4,6 +4,7 @@ import feedparser
 from openai import OpenAI
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
+from bs4 import BeautifulSoup
 
 # 定义多订阅源列表
 FEED_URLS = [
