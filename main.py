@@ -68,7 +68,7 @@ def analyze_article_with_llm(title, summary, journal_title=""):
 {{
   "thought_process": "用1-2句话客观写出判断逻辑：指出是直接研究，还是基于何种数学对象/数据结构的迁移",
   "relevance_score": 1到5的整数,
-  "is_relevant": true（仅当 relevance_score >= 3 时为 true，否则为 false）,
+  "is_relevant": true（仅当 relevance_score >= 4 时为 true，否则为 false）,
   "title_zh": "准确专业的中文标题",
   "summary_zh": "通顺专业的中文摘要（若无有效摘要填空字符串 \"\"）",
   "inspiration": "若相关，用2句话精确指出其对生态/行为具体问题的推进点或具体数据迁移路径；若无关填“无”"
