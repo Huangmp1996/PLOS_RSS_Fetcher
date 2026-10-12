@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>生态学与计算交叉科学 - 灵感筛选源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动从多本顶级期刊筛选的生态学及交叉学科启发文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Mon, 05 Oct 2026 04:45:58 +0000</lastBuildDate><item><title>[3分][Journal of The Royal Society Interface Current Issue] 用于动态和可扩展细胞培养的多传感器连续流生物反应器</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>生态学与计算交叉科学 - 灵感筛选源</title><link>https://github.com/</link><description>基于 DeepSeek API 自动从多本顶级期刊筛选的生态学及交叉学科启发文献</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-CN</language><lastBuildDate>Mon, 12 Oct 2026 05:04:48 +0000</lastBuildDate><item><title>[3分][Journal of The Royal Society Interface Current Issue] 用于动态和可扩展细胞培养的多传感器连续流生物反应器</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -16,7 +16,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该生物反应器系统集成了多传感器实时监测和反馈控制，其模块化设计和连续流旋转架构可类比于生态学中的连续培养系统（如恒化器），为研究微生物种群动态、资源竞争和环境响应提供了可调控的实验平台。其Python接口和数据处理方法可迁移至生态学中的自动化数据采集与实时控制，用于模拟环境梯度或扰动实验，促进生态学研究的可重复性和高通量筛选。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 炎症因子运输驱动动脉瘤炎症模型中的巨噬细胞聚集</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250590/482700/Multi-sensor-continuous-flow-bioreactor-for</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 炎症因子运输驱动动脉瘤炎症模型中的巨噬细胞聚集</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -33,7 +33,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究构建的基于正反馈机制的细胞-因子相互作用模型，与生态学中的种群动态和空间自组织模型高度相似，可借鉴其建模思路来模拟物种扩散、资源竞争或疾病传播中的空间模式形成。其提出的生产-运输比无量纲数，可用于生态系统中物质流或能量流对种群分布影响的定量分析，例如预测浮游植物斑块的形成或入侵物种的扩散前沿。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 异议增强贝叶斯从众决策者群体的可信度</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250535/482713/Inflammatory-factor-transport-drives-macrophage</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 异议增强贝叶斯从众决策者群体的可信度</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -50,7 +50,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过贝叶斯模型分析群体决策中的从众偏差，揭示了适度异议对群体可靠性的作用，其方法论可迁移至生态学中的群体行为建模，如动物群体迁徙或觅食决策，有助于理解群体智能与信息传递机制。此外，其结论对生态保护中专家评估的可信度判断具有启示，可用于优化生态管理决策中的共识与异议平衡。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 肌成纤维细胞减缓混合细胞单层中的缺陷重组动力学</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20250956/482714/Dissent-enhances-the-credibility-of-groups-of</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 肌成纤维细胞减缓混合细胞单层中的缺陷重组动力学</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -67,7 +67,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究利用拓扑缺陷分析细胞单层中的有序性和动力学，其方法可迁移至生态学中种群空间格局的分析，例如通过类似缺陷检测识别生态群落中的结构异常区域。此外，细胞类型偏好特定缺陷位点的发现，可类比于生态学中物种对特定微生境的偏好，有助于理解物种共存和群落组装规则。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 实验室实验中长足蚁（A. gracilipes）运动的随机建模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014069</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260007/482715/Myofibroblasts-slow-down-defect-recombination</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 实验室实验中长足蚁（A. gracilipes）运动的随机建模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014069</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014069"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -84,7 +84,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将随机运动模型（主动布朗运动与跑停模型）应用于蚂蚁个体运动，其方法论可迁移至其他动物或生态学中的个体运动建模，例如种群扩散、栖息地利用和迁徙路径预测。通过识别运动参数的概率分布，该方法有助于从个体层面理解群体行为，并可为生态模拟中的个体运动规则提供定量依据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014069</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 脑电图的神经群体模型：从经典模型到替代模型结构</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014222</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014069</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 脑电图的神经群体模型：从经典模型到替代模型结构</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014222</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014222"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -101,7 +101,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的基于语法的模型生成与比较框架可迁移至生态学中的种群动态建模，用于系统探索多种可能的种群相互作用结构，避免仅依赖少数经典模型。其模型选择方法（如贝叶斯期望排名）可用于评估不同生态模型对观测数据的解释能力，帮助识别最合理的机制。此外，其将模型嵌入共享结构空间的思想可应用于生态学中不同复杂度的模型比较，促进模型简化与选择。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014222</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] ScanNet：通过迭代异构图学习，基于转录调控网络信息的单细胞注释</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014602</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014222</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] ScanNet：通过迭代异构图学习，基于转录调控网络信息的单细胞注释</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014602</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014602"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -118,7 +118,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;ScanNet通过整合先验调控网络信息进行细胞类型注释的方法，可类比于生态学中利用物种相互作用网络（如食物网或共生网络）来推断群落功能或生态位。其迭代异构图学习框架可迁移至生态学中的群落结构分析，例如利用物种间的相互作用关系（如捕食、竞争、共生）来改进物种分类或功能群划分。此外，该方法对跨平台数据的鲁棒性提示生态学中可借鉴其处理多源异构数据（如不同采样方法或环境数据）的策略，以提高生态群落分类的准确性和可迁移性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014602</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 用最小可解释智能体模型解码行为</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014585</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014602</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 用最小可解释智能体模型解码行为</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014585</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014585"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -135,7 +135,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法提供了一种从行为数据中提取最小可解释模型的新框架，可迁移至生态学中动物行为研究，例如通过追踪个体运动轨迹推断其决策规则，或用于种群动态建模中识别关键状态转换。其循环状态模型有助于揭示生态系统中个体对环境的适应性策略，并可用于预测物种对气候变化的响应。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014585</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 全球尺度下鱼类种群动态对气候强迫和人类开发的敏感性</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251040/482743/Sensitivity-of-fish-stock-trajectories-to-climate</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014585</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 全球尺度下鱼类种群动态对气候强迫和人类开发的敏感性</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251040/482743/Sensitivity-of-fish-stock-trajectories-to-climate</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20251040/482743/Sensitivity-of-fish-stock-trajectories-to-climate"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -152,7 +152,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究采用的经验动态建模（EDM）方法能够从时间序列数据中识别因果关系，无需预设模型结构，这对于生态学中复杂非线性系统的研究具有重要借鉴价值。其结论强调了直接开发对种群动态的主导作用，提示在生态保护中应优先管理直接人为干扰，以增强生态系统对气候变化的韧性。该方法可应用于其他物种的种群动态分析、生态系统健康评估以及保护策略的制定。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251040/482743/Sensitivity-of-fish-stock-trajectories-to-climate</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 力学限制塑造玫瑰刺的椭圆形形态</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251300/482753/Mechanical-limits-shape-the-eccentric-form-of-rose</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251040/482743/Sensitivity-of-fish-stock-trajectories-to-climate</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][Journal of The Royal Society Interface Current Issue] 力学限制塑造玫瑰刺的椭圆形形态</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251300/482753/Mechanical-limits-shape-the-eccentric-form-of-rose</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20251300/482753/Mechanical-limits-shape-the-eccentric-form-of-rose"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -169,7 +169,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过力学模型和实验揭示了生物形态的物理约束，其方法论可迁移至生态学中，例如用于理解动物牙齿、爪子或植物刺等防御结构的形态适应，或用于模拟生物体在环境压力下的形态演化。此外，其量化权衡的方法可应用于生态学中的功能形态学分析，帮助预测物种在环境变化下的适应性形态变化。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251300/482753/Mechanical-limits-shape-the-eccentric-form-of-rose</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 污染物诱导的鱼类色素沉着及空间模式变化</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260065/482754/Pollutant-induced-changes-in-fish-pigmentation-and</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251300/482753/Mechanical-limits-shape-the-eccentric-form-of-rose</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 污染物诱导的鱼类色素沉着及空间模式变化</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260065/482754/Pollutant-induced-changes-in-fish-pigmentation-and</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260065/482754/Pollutant-induced-changes-in-fish-pigmentation-and"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -186,7 +186,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究采用反应-扩散-平流模型和非局部核函数模拟生物模式形成，其方法论可迁移至生态学中种群空间分布、群落格局形成等研究，例如利用类似模型探讨环境胁迫下物种分布格局的转变。此外，其关于污染物影响细胞相互作用并导致模式变化的结论，提示生态学中环境污染物可能通过类似机制影响个体表型，进而影响种群动态和群落结构，为生态毒理学与空间生态学的交叉研究提供新视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260065/482754/Pollutant-induced-changes-in-fish-pigmentation-and</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 使用灵活的医疗容量约束优化大流行控制策略的案例</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251046/482757/The-case-for-using-flexible-healthcare-capacity</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260065/482754/Pollutant-induced-changes-in-fish-pigmentation-and</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 使用灵活的医疗容量约束优化大流行控制策略的案例</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251046/482757/The-case-for-using-flexible-healthcare-capacity</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20251046/482757/The-case-for-using-flexible-healthcare-capacity"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -203,7 +203,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法论可迁移至生态学中的种群动态建模，特别是资源有限环境下的种群管理。例如，在野生动物保护中，可借鉴软约束思想，将栖息地容量或食物资源视为连续变化的约束，以优化保护策略，平衡生态效益与管理成本。此外，该研究强调不确定性分析，对生态模型中的稳健决策具有借鉴价值。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251046/482757/The-case-for-using-flexible-healthcare-capacity</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 一种改进的逆方法：用于低发病率流行病中疾病传播率的估计</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260044/482758/An-improved-inverse-method-for-estimating-disease</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251046/482757/The-case-for-using-flexible-healthcare-capacity</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 一种改进的逆方法：用于低发病率流行病中疾病传播率的估计</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260044/482758/An-improved-inverse-method-for-estimating-disease</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260044/482758/An-improved-inverse-method-for-estimating-disease"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -220,7 +220,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法的核心是处理稀疏和不规则时间序列数据，这在生态学中同样常见，例如种群监测数据往往稀疏且采样间隔不均。其指数B样条插值和非标准有限差分方法可迁移至生态学中的种群动态建模，用于估计时变出生率、死亡率或扩散率，尤其是在数据不完整的情况下。此外，该方法对多群体模型的适用性可启发生态学中多物种或空间斑块系统的参数估计，提高生态预测的准确性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260044/482758/An-improved-inverse-method-for-estimating-disease</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 一种无需比对的全基因组测序数据分析策略，用于循环肿瘤DNA检测和肿瘤分数估计</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013356</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260044/482758/An-improved-inverse-method-for-estimating-disease</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 一种无需比对的全基因组测序数据分析策略，用于循环肿瘤DNA检测和肿瘤分数估计</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013356</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013356"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -237,7 +237,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法的核心思想是从未比对的测序数据中提取k-mer特征来检测稀有变异，这种无需参考基因组的策略可类比于生态学中的环境DNA（eDNA）分析，其中从环境样本中直接提取DNA序列而不依赖于物种参考基因组。生态学家可以借鉴这种k-mer频率分析框架，用于从复杂环境样本中检测稀有物种或监测生物多样性，特别是在参考基因组缺乏的物种中。此外，该方法中的噪声校正和样本特异性变异处理策略，也可为生态学中的种群遗传学或群落结构分析提供新的思路。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013356</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] RareCapsNet：一种可解释的胶囊网络，能够从大规模单细胞转录组中稳健地发现稀有细胞群体</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013962</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013356</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] RareCapsNet：一种可解释的胶囊网络，能够从大规模单细胞转录组中稳健地发现稀有细胞群体</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013962</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013962"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -254,7 +254,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法可迁移至生态学中的稀有物种或稀有生态型识别，例如从环境DNA（eDNA）或宏条形码数据中识别稀有微生物或浮游生物。胶囊网络的可解释性有助于揭示关键标记基因或特征，类似于生态学中识别指示物种或功能基因。此外，其跨批次知识迁移能力可应用于不同生态系统或时间点的数据整合，提高模型泛化能力。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013962</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 迈向可靠的神经回路推断机器学习模型：基于尖峰序列的CNN诊断研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014615</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013962</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 迈向可靠的神经回路推断机器学习模型：基于尖峰序列的CNN诊断研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014615</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014615"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -271,7 +271,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究的方法论——利用模拟数据训练深度学习模型以提高泛化能力，并诊断模型内部表征——可迁移至生态学中的物种相互作用网络推断（如从时间序列数据推断捕食-被捕食关系或共生关系）。其强调训练数据多样性对模型稳健性的重要性，对生态学中基于观测数据构建预测模型（如物种分布模型、群落动态预测）具有借鉴价值，尤其是在数据稀疏和噪声大的情况下。此外，其诊断方法可帮助生态学家理解模型依赖的特征，提高模型的可解释性和可靠性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014615</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] SKIM：一种结合模型动态反馈的快速草图策略，用于大规模单细胞转录组分析</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014638</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014615</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] SKIM：一种结合模型动态反馈的快速草图策略，用于大规模单细胞转录组分析</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014638</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014638"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -288,7 +288,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;SKIM方法中的动态反馈概念（基于训练损失轨迹）可类比于生态学中的种群动态或生态系统状态变化的时间序列分析，其通过多尺度反馈识别异常和平衡采样的策略，可迁移至生态学中的空间抽样设计，例如在大型生态监测数据中，利用模型动态反馈来识别异常环境样本并平衡采样，以提高物种分布模型或群落分析的效率和准确性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014638</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从高度可变的经验重复中进行集体后验推断</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014534</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014638</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从高度可变的经验重复中进行集体后验推断</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014534</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014534"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -305,7 +305,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法可应用于生态学中的种群动态建模，其中来自多个重复实验或野外样地的观测数据常含有异常值。通过稳健的集体后验推断，生态学家能够更准确地估计模型参数，并识别出异常样地或异常年份，从而提高生态预测的可靠性。此外，该方法与任何基于模拟的推断框架兼容，便于整合到现有的生态学建模流程中。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014534</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 基于边感知图注意力网络的蛋白质结合位点预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014552</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014534</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 基于边感知图注意力网络的蛋白质结合位点预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014552</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014552"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -322,7 +322,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的图注意力网络方法可迁移至生态学中的物种相互作用网络分析，例如预测物种间的结合或共生关系，通过构建空间图并整合环境特征来增强预测。此外，其几何特征嵌入和注意力机制可用于分析生态空间格局，如物种分布的空间模式识别，或用于遥感图像中的栖息地识别，提高生态监测的自动化水平。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014552</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 遗传密码在错误与需求平衡点上的优化</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014613</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014552</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 遗传密码在错误与需求平衡点上的优化</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014613</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014613"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -339,7 +339,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究的多目标优化框架和模拟退火算法可迁移至生态学中的种群适应度景观分析，例如在资源限制下平衡物种的生存与繁殖策略。此外，其关于简并性双重角色的见解可类比于生态系统的冗余性，为理解生物多样性对生态系统稳定性的贡献提供新视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014613</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 无比对预测甲型流感（H3N2）交叉反应性，预判抗原漂移</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014628</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014613</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 无比对预测甲型流感（H3N2）交叉反应性，预判抗原漂移</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014628</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014628"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -356,7 +356,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;FluEmbed利用蛋白质语言模型从序列数据中预测抗原性，其无比对方法可类比于生态学中基于环境DNA或宏条形码数据快速评估物种多样性或群落动态，无需依赖传统的比对方法。此外，其模拟突变探索抗原逃逸空间的思想，可启发生态学中模拟物种适应性进化或入侵物种的突变潜力，以预测生态位转移或疾病传播动态。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014628</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CRITERIA：一种基于网络分解和基本通量模式翻译的计算生化系统平衡点的工具</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014633</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014628</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CRITERIA：一种基于网络分解和基本通量模式翻译的计算生化系统平衡点的工具</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014633</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014633"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -373,7 +373,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;CRITERIA的网络分解和平衡点计算方法可迁移至生态学中的种群动态建模，例如分析多物种竞争或捕食-被捕食系统的平衡态和稳定性。其图论和优化技术也可用于生态网络中的通量平衡分析，帮助识别关键物种或功能群。此外，该方法对多稳态和鲁棒性的分析思路，可应用于生态系统的稳态转换和韧性研究。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014633</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 更正：利用深度卷积神经网络对基因表达和DNA结合位点定位的预测建模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014647</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014633</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 更正：利用深度卷积神经网络对基因表达和DNA结合位点定位的预测建模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014647</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014647"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -390,7 +390,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;深度卷积神经网络在图像识别和空间模式提取方面具有强大能力，可迁移至生态学中的遥感图像分析，用于识别物种分布、栖息地分类或景观格局。此外，该模型对基因表达和DNA结合位点的预测方法可类比于生态学中物种分布建模，利用环境变量预测物种出现概率，为生态位建模提供新思路。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014647</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] REvolutionH-tl 2.0：一种快速且稳健的进化基因历史解码工具</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013017</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014647</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] REvolutionH-tl 2.0：一种快速且稳健的进化基因历史解码工具</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013017</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013017"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -407,7 +407,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;REvolutionH-tl的图论框架（最佳匹配图）和高效算法可迁移至生态学中的物种相互作用网络构建，例如从环境DNA或宏条形码数据推断物种间的系统发育关系，从而辅助群落生态学研究。其快速、可扩展的特性适用于大规模生态数据集，如全球生物多样性监测，而可视化功能有助于直观展示进化动态，可类比于生态网络的可视化分析。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013017</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 基于智能体的模型探究布氏锥虫社会运动以揭示菌落模式形成的决定因素</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013698</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013017</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 基于智能体的模型探究布氏锥虫社会运动以揭示菌落模式形成的决定因素</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013698</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013698"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -424,7 +424,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究通过基于智能体的模型揭示了细胞运动参数和化学信号扩散系数如何共同决定菌落空间模式，这种建模方法可直接迁移至生态学中种群空间分布格局的形成机制研究，例如动物群体迁徙或植物种群扩散。其参数敏感性分析思路有助于生态学家识别影响种群空间结构的关键因子，并设计实验验证。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013698</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 利用nf-core/mag对古代DNA宏基因组进行从头组装与验证</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014591</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013698</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 利用nf-core/mag对古代DNA宏基因组进行从头组装与验证</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014591</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014591"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -441,7 +441,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究针对降解DNA的组装挑战，其方法可迁移至生态学中环境DNA（eDNA）宏基因组分析，例如从土壤或水样中组装稀有或降解物种的基因组，以监测生物多样性。此外，其验证古代DNA重叠群的策略可类比于生态学中识别环境样本中的污染或嵌合序列，提高数据可靠性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014591</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 将深度学习应用于动物声音的十二条快速技巧</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014604</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014591</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 将深度学习应用于动物声音的十二条快速技巧</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014604</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014604"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -458,7 +458,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该文为生态学家提供了将深度学习应用于动物声音的完整实践框架，可直接用于物种多样性监测、行为生态学研究以及生态系统健康评估。其强调的迁移学习、开源工具和领域偏移处理策略，可借鉴到其他生态数据（如遥感图像、环境DNA序列）的机器学习分析中，提高模型的可迁移性和鲁棒性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014604</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从噪声、多维单细胞TNF–NF-κB信号数据评估细胞决策的可靠性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014608</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014604</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从噪声、多维单细胞TNF–NF-κB信号数据评估细胞决策的可靠性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014608</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014608"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -475,7 +475,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的Neyman-Pearson检测框架可迁移至生态学中的物种检测或生态状态判别，例如从环境DNA或遥感数据中检测稀有物种或早期入侵信号，在控制误报率的同时最大化检测概率。此外，其多变量高斯建模和ROC分析可用于评估生态监测指标的有效性，并比较不同采样时间或环境条件下的检测能力，为生态监测网络设计提供定量工具。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014608</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 特征筛选方法在1型糖尿病组学研究分类设置中的基准测试研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014625</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014608</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 特征筛选方法在1型糖尿病组学研究分类设置中的基准测试研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014625</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014625"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -492,7 +492,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究系统比较了多种特征筛选方法在高维数据中的性能，其方法论可迁移至生态学中的高维环境数据（如遥感影像、物种分布数据）的特征选择，以提升机器学习模型的预测精度和计算效率。特别是BcorSIS方法在计算效率上的优势，可用于生态大数据中的快速变量筛选，支持物种分布建模、环境变化预测等场景。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014625</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用子集成贡献分析评估英格兰2024-25年冬季多目标短期呼吸道预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014644</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014625</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用子集成贡献分析评估英格兰2024-25年冬季多目标短期呼吸道预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014644</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014644"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -509,7 +509,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的子集成贡献分析和帕累托最优方法可迁移至生态学中的多模型集成预测，例如物种分布模型或种群动态预测，用于评估不同模型对集成预测的贡献，并识别在不同评价指标（如准确性、稳定性）下的最优模型组合。此外，广义加性模型（GAMs）用于估计模型包含对预测分数的影响，可应用于生态学中评估环境变量或物种相互作用对预测性能的非线性影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014644</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 利用Mondrian交叉共形预测提高2型糖尿病跨祖先心血管和肾脏并发症多基因风险评分预测的可靠性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014670</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014644</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 利用Mondrian交叉共形预测提高2型糖尿病跨祖先心血管和肾脏并发症多基因风险评分预测的可靠性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014670</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014670"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -526,7 +526,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法论中不确定性量化框架（MCCP）可迁移至生态学中的物种分布模型或种群动态预测，为每个预测提供置信度和可信度，并标记不可靠预测，从而提高模型在跨区域或跨环境应用中的可靠性。此外，其处理跨群体迁移性的思路可类比生态学中模型在不同生态系统间的泛化问题，有助于构建更稳健的生态预测模型。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014670</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] scKanFormer：一种具有生物学信息注意力的Transformer-KAN框架，用于大规模单细胞RNA测序数据的细胞类型注释</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014607</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014670</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] scKanFormer：一种具有生物学信息注意力的Transformer-KAN框架，用于大规模单细胞RNA测序数据的细胞类型注释</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014607</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014607"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -543,7 +543,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的Transformer-KAN框架结合了生物学信息注意力机制，可迁移至生态学中的物种分类和群落结构分析，例如利用单细胞或环境DNA数据进行物种鉴定。其处理大规模数据、克服批次效应和增强可解释性的方法，可应用于生态学中的空间模式识别和复杂网络分析，如物种相互作用网络构建。此外，其注意力机制的可追溯性有助于生态学中关键特征识别，提升模型在环境梯度下的鲁棒性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014607</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CLASPP：一个用于预测翻译后修饰的统一模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014616</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014607</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CLASPP：一个用于预测翻译后修饰的统一模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014616</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014616"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -560,7 +560,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的对比学习框架和分层数据整理策略可迁移至生态学中的物种分布建模或群落结构预测，特别是在处理稀有物种与常见物种数据不平衡问题时。其无监督聚类欠采样方法可用于平衡生态调查数据，而对比学习可增强模型对生态位特征的区分能力，例如区分不同栖息地类型或物种共现模式。此外，其多阶段训练策略和可解释性分析（如区分底物特异性）可类比于生态学中识别环境因子对物种分布的特异性影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014616</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 设计包含HIV蛋白质组多维保守且免疫原性部分的免疫原</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014632</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014616</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 设计包含HIV蛋白质组多维保守且免疫原性部分的免疫原</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014632</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014632"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -577,7 +577,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究利用适应性景观和突变约束来识别关键保守区域，这一方法可迁移至生态学中，用于识别物种适应性进化中的关键基因或功能区域，或预测病原体在环境变化下的进化动态。其多维保守性分析也可用于生态网络中的关键物种或功能群识别，为生物多样性保护提供新视角。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014632</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 结构感知深度学习提升m6A预测并揭示细胞类型相关的RNA结构特征</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014649</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014632</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 结构感知深度学习提升m6A预测并揭示细胞类型相关的RNA结构特征</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014649</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014649"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -594,7 +594,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究提出的多特征融合深度学习框架（结合序列和结构信息）可迁移至生态学中的物种分布建模或群落结构预测，例如整合物种遗传序列与环境空间结构数据，提高预测精度。其结构引导注意力机制可类比于生态网络中的空间或系统发育结构，用于识别关键生态位或相互作用模式。此外，通过扰动分析评估特征重要性的方法可用于生态模型中的敏感性分析，帮助识别关键环境驱动因子。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014649</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 独角鲸长牙和牙齿的化学成分受地理区域影响</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260027/482809/The-chemical-composition-of-narwhal-tusk-and-tooth</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014649</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 独角鲸长牙和牙齿的化学成分受地理区域影响</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260027/482809/The-chemical-composition-of-narwhal-tusk-and-tooth</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260027/482809/The-chemical-composition-of-narwhal-tusk-and-tooth"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -611,7 +611,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中动物迁徙、栖息地利用与地理环境关系提供了化学指纹证据，可启发利用牙齿/骨骼元素组成追踪动物地理来源和饮食变化。其方法可迁移至其他海洋哺乳动物或陆地物种的生态地理研究，结合环境数据层进行空间建模。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260027/482809/The-chemical-composition-of-narwhal-tusk-and-tooth</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 非机制性方法表征病原体-病原体相互作用的局限性：一项模拟研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013859</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260027/482809/The-chemical-composition-of-narwhal-tusk-and-tooth</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 非机制性方法表征病原体-病原体相互作用的局限性：一项模拟研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013859</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013859"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -628,7 +628,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究系统评估了多种通用时间序列因果推断方法在非线性随机系统（如传染病）中的表现，其模拟框架和评估指标可直接迁移至宏观生态学中物种相互作用（如竞争、互利）的推断。生态学家可借鉴其模拟-评估流程，检验Granger因果、CCM等方法在物种多度时间序列中的可靠性，并注意季节性混杂和弱相互作用下的假阳性问题。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013859</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 对比学习微调视觉皮层特征提取模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014656</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013859</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 对比学习微调视觉皮层特征提取模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014656</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014656"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -645,7 +645,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;对比学习框架可迁移至生态学中物种分布建模，利用环境特征与物种出现数据之间的互信息最大化来微调特征提取器。此外，跨个体迁移和联合训练策略可类比于跨区域或跨物种的生态模型泛化，提升模型在不同生态系统中的适用性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014656</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CD8+ T细胞扩增与收缩阶段的SATvac模型：考虑记忆和效应细胞分化</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014702</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014656</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] CD8+ T细胞扩增与收缩阶段的SATvac模型：考虑记忆和效应细胞分化</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014702</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014702"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -662,7 +662,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该模型的随机agent-based框架可迁移至宏观生态学中的个体-based种群动态模拟，特别是考虑个体异质性和随机事件（如环境波动）对种群动态的影响。其处理个体间变异和预测群体轨迹的方法，可应用于物种多度时间序列的模拟与预测，或动物行为中的个体运动轨迹建模。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014702</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 生物医学组学数据因果分析的十条快速技巧</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014668</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014702</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 生物医学组学数据因果分析的十条快速技巧</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014668</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014668"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -679,7 +679,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法可迁移至生态学中的因果推断，例如从观测数据中推断环境因素对物种分布或种群动态的因果影响。具体可借鉴其处理混杂变量和敏感性分析的技巧，应用于生态时间序列或空间网格数据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014668</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 生物医学联邦学习的十一条快速建议</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014530</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014668</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 生物医学联邦学习的十一条快速建议</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014530</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014530"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -696,7 +696,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;联邦学习可应用于宏观生态学中跨机构、跨国的物种分布数据整合，例如在保护敏感物种时避免泄露精确位置。其分布式训练框架可迁移至生态监测网络，实现多站点数据协同建模，提升物种分布模型和群落动态预测的泛化能力。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014530</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] COVID-19中的非马尔可夫动力学与有效再生数：来自塞浦路斯接触者追踪数据的证据</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014578</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014530</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] COVID-19中的非马尔可夫动力学与有效再生数：来自塞浦路斯接触者追踪数据的证据</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014578</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014578"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -713,7 +713,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法可直接迁移至生态学中的接触网络或疾病传播研究，例如利用物种互作网络或个体接触数据构建传播树，通过跳数分布检测非马尔可夫性，并估计传播潜力。此外，其基于拓扑结构推断潜在过程的思想可用于分析动物行为网络或物种扩散网络。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014578</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 在证据累积建模中忽略遗漏数据的风险</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014667</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014578</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 在证据累积建模中忽略遗漏数据的风险</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014667</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014667"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -730,7 +730,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;生态学中常面临检测概率小于1导致的物种多度低估或行为事件缺失，可借鉴其似然自由推断方法处理缺失数据，提高参数估计准确性。具体可迁移至物种分布模型或行为轨迹分析中，将未观测到的状态视为遗漏数据并联合建模。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014667</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 离子组对铜浓度升高的响应：粘质沙雷氏菌实验进化的结果</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260305/482904/Ionomic-responses-to-increasing-environmental</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014667</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 离子组对铜浓度升高的响应：粘质沙雷氏菌实验进化的结果</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260305/482904/Ionomic-responses-to-increasing-environmental</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260305/482904/Ionomic-responses-to-increasing-environmental"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -747,7 +747,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究展示了如何利用成分数据分析（如对数比变换）处理多元素组成数据，可迁移至生态学中物种多度矩阵或环境化学计量数据的分析，以揭示系统级协同变化。其实验进化设计也提供了研究微生物对环境污染适应性的范式，可类比于宏观生物对污染物的进化响应。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260305/482904/Ionomic-responses-to-increasing-environmental</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 从鸟类病毒血症到鸟类监测：乌苏图病毒感染多尺度媒介传播模型的可辨识性</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260174/483025/From-bird-viremia-to-bird-surveillance</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260305/482904/Ionomic-responses-to-increasing-environmental</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 从鸟类病毒血症到鸟类监测：乌苏图病毒感染多尺度媒介传播模型的可辨识性</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20260174/483025/From-bird-viremia-to-bird-surveillance</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20260174/483025/From-bird-viremia-to-bird-surveillance"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -764,7 +764,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究展示了如何将微观（宿主体内病毒载量）与宏观（种群传播）数据整合到同一模型中，并开发了新的可辨识性方法，可迁移至其他野生动物疾病的监测与预测。其多尺度建模框架和可辨识性分析思路，可启发生态学家在类似的多层次数据整合问题中应用。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260174/483025/From-bird-viremia-to-bird-surveillance</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 乌贼（Sepia officinalis）吸盘的附着性能取决于乳突与基底形貌的相互作用</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251311/483067/Attachment-performance-of-cuttlefish-Sepia</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20260174/483025/From-bird-viremia-to-bird-surveillance</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 乌贼（Sepia officinalis）吸盘的附着性能取决于乳突与基底形貌的相互作用</title><link>https://royalsocietypublishing.org/rsif/article/23/241/20251311/483067/Attachment-performance-of-cuttlefish-Sepia</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/241/20251311/483067/Attachment-performance-of-cuttlefish-Sepia"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -781,7 +781,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了生物吸盘附着性能与基底粗糙度之间的定量关系，可启发生态学中关于动物-基底相互作用的宏观尺度研究，例如利用表面形貌数据预测不同栖息地中动物的附着成功率。其数学模型可迁移至其他附着生物（如藤壶、贻贝）的附着性能预测，或用于设计仿生采样设备以研究底栖生物分布。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251311/483067/Attachment-performance-of-cuttlefish-Sepia</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 宿主流动性模型如何影响病原体传播与非流行区流行风险的估计</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014646</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/241/20251311/483067/Attachment-performance-of-cuttlefish-Sepia</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 宿主流动性模型如何影响病原体传播与非流行区流行风险的估计</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014646</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014646"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -798,7 +798,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究比较了两种流动性建模方法（感染压力扩散 vs 显式个体扩散）对传播预测的影响，其方法论可迁移至宏观生态学中物种扩散模型的选择，例如评估不同扩散模型（如反应-扩散 vs 网络扩散）对入侵物种传播预测的差异。此外，其整合多种流动性成分（如航空、地面交通）的思路可启发行为生态学中动物移动多尺度建模，例如结合GPS轨迹和栖息地网络分析。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014646</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 双重收缩迁移因果学习：在阿尔茨海默病中的应用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014706</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014646</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 双重收缩迁移因果学习：在阿尔茨海默病中的应用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014706</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014706"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -815,7 +815,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法可迁移至宏观生态学中，例如在样本量有限的稀有物种或特定生态区域中，借用相关但数据丰富的区域或物种的数据来估计环境因素对物种多度或分布变化的因果效应。其双重收缩策略有助于处理高维协变量和源-目标差异，提高估计稳定性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014706</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 耦合神经元振荡系统中频率失谐对振幅控制的理论与证据</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014686</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014706</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 耦合神经元振荡系统中频率失谐对振幅控制的理论与证据</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014686</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014686"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -832,7 +832,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物行为节律的神经控制提供了新机制，可启发生态学中动物运动节律（如迁徙、昼夜节律）与外部环境节律（如光照、温度）耦合的研究。其频率失谐控制振幅的数学模型可迁移至分析动物运动轨迹数据中的节律性变化，例如通过检测频率失谐来预测行为状态转换。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014686</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 微生物组科学中的多组学谬误</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014700</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014686</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 微生物组科学中的多组学谬误</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014700</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014700"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -849,7 +849,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该论文提出的'模型到机制'证明负担框架可直接迁移至宏观生态学中的物种分布模型、群落组装预测等场景，帮助区分预测性能与生态机制验证。具体可应用于评估基于环境变量的物种分布预测是否真正揭示了生态位机制，或用于指导生态学中机器学习模型的可解释性分析，避免将相关性误认为因果性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014700</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 流形约束的可塑性使循环神经回路中的学习保持稳定</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014719</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014700</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 流形约束的可塑性使循环神经回路中的学习保持稳定</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014719</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014719"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -866,7 +866,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法的流形跟踪与在线学习机制可迁移至宏观生态学中的群落动态分析，例如利用物种多度矩阵估计低维生态流形并跟踪其漂移，以改进群落状态预测。也可用于动物行为轨迹分析，通过在线学习低维行为流形，实现对行为状态变化的实时追踪与预测。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014719</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 非局域连接组投影对几何约束皮层动力学影响的建模研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014673</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014719</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 非局域连接组投影对几何约束皮层动力学影响的建模研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014673</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014673"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -883,7 +883,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该模型将连续介质几何约束与非局域连接项耦合，可类比于生态学中空间显式种群模型与长距离扩散或迁徙走廊的耦合，用于研究不同时间尺度下空间同步性和种群动态的驱动因素。其方法可直接迁移至分析物种多度矩阵与景观连通性数据，评估局部生境几何与非局域连接对群落动态的相对贡献。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014673</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 疟疾蚊虫的复杂群舞动态源于简单的低交互行为规则</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014685</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014673</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 疟疾蚊虫的复杂群舞动态源于简单的低交互行为规则</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014685</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014685"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -900,7 +900,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中群体运动与空间格局分析提供了可迁移的建模框架，其基于个体轨迹数据提取行为规则并构建最小模型的方法可直接应用于其他昆虫或动物群体的行为生态学研究。具体而言，其轨迹数据（三维坐标时间序列）和基于个体的模拟方法可迁移至宏观生态学中的动物移动生态学、群体空间格局分析，以及基于环境线索的动物导航行为研究。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014685</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 非马尔可夫随机反应网络的模拟与推断方法</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014687</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014685</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 非马尔可夫随机反应网络的模拟与推断方法</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014687</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014687"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -917,7 +917,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法可迁移至宏观生态学中种群动态的模拟与推断，特别是当物种相互作用存在历史依赖（如延迟密度制约）时。也可用于行为学中事件时间序列（如动物行为事件）的非马尔可夫建模，提高推断效率。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014687</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用合成数据和遗传数据改进流行病预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014630</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014687</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用合成数据和遗传数据改进流行病预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014630</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014630"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -934,7 +934,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法可直接迁移至宏观生态学中的物种分布预测，例如利用合成数据增强稀有物种的建模，或利用遗传信息（如环境DNA）改进物种扩散预测。其深度学习框架也可用于分析多物种多度矩阵，预测群落动态。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014630</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 金属结合位点比对实现跨序列差异蛋白的重复几何结构网络发现及药物脱靶预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014636</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014630</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 金属结合位点比对实现跨序列差异蛋白的重复几何结构网络发现及药物脱靶预测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014636</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014636"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -951,7 +951,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该方法可迁移至生态学中基于物种功能性状或生态位构建相似性网络，用于识别功能趋同或保守的物种组合；其网络邻近性分析可类比于生态互作网络中的模块检测，用于预测物种间潜在相互作用或功能关联。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014636</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 简单的出生-死亡-突变模型预测了抗生素抗性实验进化的某些方面——但并非全部</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014666</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014636</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 简单的出生-死亡-突变模型预测了抗生素抗性实验进化的某些方面——但并非全部</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014666</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014666"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -968,7 +968,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究展示了如何将简单的随机种群模型与实验数据结合，以检验和修正模型假设，这可以启发宏观生态学中种群动态模型的验证与改进。其出生-死亡-突变框架可直接迁移至宏观生态学中的物种入侵、种群扩散或突变积累研究，通过对比模型预测与野外或实验数据来揭示生态过程。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014666</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 从病毒载量和每日接触率数据中解析SARS-CoV-2传播异质性的驱动因素</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014715</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014666</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[3分][PLOS Computational Biology] 从病毒载量和每日接触率数据中解析SARS-CoV-2传播异质性的驱动因素</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014715</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014715"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -985,7 +985,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 3 / 5&lt;/p&gt;
             &lt;p&gt;该研究的方法可迁移至宏观生态学中，用于解析个体异质性（如接触网络、行为差异）对种群动态和疾病传播的影响。具体而言，其结合个体水平数据和数学模型估计异质性的框架，可应用于分析物种多度矩阵或个体运动轨迹数据，以量化个体差异对种群动态的贡献。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014715</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从个体级注册数据绘制空间同事连接模式，为区域大流行干预提供信息</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014721</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014715</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 从个体级注册数据绘制空间同事连接模式，为区域大流行干预提供信息</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014721</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014721"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1002,7 +1002,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该方法可直接迁移至生态学中基于个体移动或种群连接构建空间网络的研究，例如利用GPS追踪或标记重捕数据构建物种个体间的空间连接矩阵，量化栖息地斑块间的连通性，并评估景观变化对物种扩散的影响。其核心思想——从个体级数据构建空间连接并量化区域间依赖——与生态学中网络分析、空间点格局分析等方法高度同构，可用于识别生态廊道、预测物种入侵路径或评估保护干预效果。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014721</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 宿主启动的微生物关联在生态模型中导致稳定的外共生</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014699</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014721</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 宿主启动的微生物关联在生态模型中导致稳定的外共生</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014699</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014699"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1019,7 +1019,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该模型为理解物种间互利共生如何从代谢依赖中涌现提供了数学框架，可迁移至宏观生态学中研究物种互作网络的结构稳定性。其关于局部抑制减少产生私人利益的概念，可类比于生态系统工程物种通过改变局部环境而获得竞争优势的机制。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014699</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 数字时代加速分类学：基于深度学习识别隐存淡水螺的方法</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014733</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014699</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 数字时代加速分类学：基于深度学习识别隐存淡水螺的方法</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014733</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014733"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1036,7 +1036,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究展示了深度学习在隐存种鉴定中的潜力，其整合多模态数据（图像、形态、地理）的方法可迁移至其他隐存种或难以鉴定的类群。其控制虚假相关性的策略对生态学中基于图像或地理数据的物种分布建模具有重要启示。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014733</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 忽视行为变化的悖论：标准流行病模型如何同时误估传播力和最终流行规模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014746</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014733</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 忽视行为变化的悖论：标准流行病模型如何同时误估传播力和最终流行规模</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014746</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014746"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1053,7 +1053,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中宿主-病原体系统提供了行为反馈的建模框架，可迁移至野生动物疾病传播或人兽共患病系统，用于评估行为适应性对传播参数估计的影响。其数学方法（如功能响应形式）可直接应用于生态时间序列数据，以检测行为驱动的传播率变化。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014746</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 孔裂花药结构动力学的测量与建模：一种机电一体化方法</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251321/483204/Measuring-and-modelling-the-structural-dynamics-of</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014746</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 孔裂花药结构动力学的测量与建模：一种机电一体化方法</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251321/483204/Measuring-and-modelling-the-structural-dynamics-of</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251321/483204/Measuring-and-modelling-the-structural-dynamics-of"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1070,7 +1070,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为传粉生物学提供了直接的行为-力学耦合框架，可推进对蜂鸣传粉中植物-传粉者物理互作的理解；其方法可迁移至其他植物类群的传粉动力学比较研究。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251321/483204/Measuring-and-modelling-the-structural-dynamics-of</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 测量与流体动力学建模量化了藤壶金星幼体运动的机械成本</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260344/483205/Measurement-and-hydrodynamic-modelling-quantifies</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251321/483204/Measuring-and-modelling-the-structural-dynamics-of</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 测量与流体动力学建模量化了藤壶金星幼体运动的机械成本</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260344/483205/Measurement-and-hydrodynamic-modelling-quantifies</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260344/483205/Measurement-and-hydrodynamic-modelling-quantifies"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1087,7 +1087,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为行为生态学中的运动能量学提供了高精度量化框架，可直接迁移至其他小型水生动物（如浮游幼虫、鱼类仔鱼）的间歇性运动成本分析；其结合高速运动学与非定常流体动力学模型的方法，可用于评估环境变化（如温度、粘度）对动物行为能量收支的影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260344/483205/Measurement-and-hydrodynamic-modelling-quantifies</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 解析病毒宿主内与宿主间自然选择的效应及其在HIV-1共受体使用演化中的应用</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251012/483207/Untangling-the-effects-of-within-host-and-between</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260344/483205/Measurement-and-hydrodynamic-modelling-quantifies</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 解析病毒宿主内与宿主间自然选择的效应及其在HIV-1共受体使用演化中的应用</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251012/483207/Untangling-the-effects-of-within-host-and-between</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251012/483207/Untangling-the-effects-of-within-host-and-between"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1104,7 +1104,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将宏观演化中的状态依赖物种形成-灭绝模型创新性地迁移至病毒多层级选择推断，为生态学中跨尺度适应度权衡（如生活史权衡）提供了可借鉴的数学框架；其基于溯祖理论处理非线性种群动态和可变采样的方法，可直接应用于宏观生态中物种形成与灭绝速率估计或行为策略的演化动态分析。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251012/483207/Untangling-the-effects-of-within-host-and-between</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 探索蚊虫暴露与吸引的异质性及其对疟疾传播的影响</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014631</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251012/483207/Untangling-the-effects-of-within-host-and-between</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 探索蚊虫暴露与吸引的异质性及其对疟疾传播的影响</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014631</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014631"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1121,7 +1121,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为生态学中个体异质性如何影响种群动态和疾病传播提供了直接范例，其方法可迁移至其他宿主-寄生虫或传粉网络等涉及异质性接触的生态问题，通过贝叶斯分层模型和负二项分布刻画个体差异，并利用个体基模型模拟宏观格局。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014631</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 原噬菌体携带的防御系统在噬菌体-噬菌体竞争中的价值</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014739</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014631</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 原噬菌体携带的防御系统在噬菌体-噬菌体竞争中的价值</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014739</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014739"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1138,7 +1138,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为理解微生物种群中防御性状的演化稳定性与多样性维持提供了理论框架，可直接迁移至宏观生态学中种间竞争、非传递性相互作用与共存机制的研究，例如利用类似模型分析物种多度矩阵或竞争实验数据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014739</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 面向动物种群新发传染病的实时预测框架</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014716</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014739</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 面向动物种群新发传染病的实时预测框架</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014716</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014716"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1155,7 +1155,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该框架可直接迁移至野生动物疾病生态学，例如利用种群监测数据实时预测病原体在濒危物种或管理种群中的时空传播，为保护干预提供决策支持；其技能评分和不确定性量化方法可评估生态预测模型的可靠性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014716</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于发病率的时间序列回归推断天气对传染病影响的陷阱</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014797</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014716</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于发病率的时间序列回归推断天气对传染病影响的陷阱</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014797</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014797"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1172,7 +1172,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中广泛使用的时间序列回归（如物种多度对气候变量的响应）提供了方法学警示：当系统存在非线性反馈、潜在状态变量和噪声时，常规回归可能产生有偏估计。其模拟框架可直接迁移至评估生态学中气候-种群动态关系的统计推断可靠性，推动使用状态空间模型或机制模型替代纯相关回归。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014797</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 法国南部白纹伊蚊季节性活动的环境与人口决定因素：一项建模研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014799</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014797</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 法国南部白纹伊蚊季节性活动的环境与人口决定因素：一项建模研究</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014799</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014799"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1189,7 +1189,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将机制模型与机器学习结合，利用滞后天气变量预测蚊虫产卵动态，为种群生态学中气候驱动的季节性活动建模提供了可迁移的方法框架，尤其适用于其他昆虫或病媒物种的物候预测。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014799</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 媒介的生态特化改变多宿主-多媒介系统的传播阈值与地方性动态</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014754</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014799</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 媒介的生态特化改变多宿主-多媒介系统的传播阈值与地方性动态</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014754</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014754"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1206,7 +1206,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为多宿主-多媒介疾病系统的传播动力学提供了量化框架，可直接用于评估宿主偏好性对病原溢出风险的影响，并指导针对媒介生态特化的干预策略设计。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014754</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 利用扰动推断人鼻病毒的种群动力学及甲型流感病毒的相互作用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014784</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014754</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 利用扰动推断人鼻病毒的种群动力学及甲型流感病毒的相互作用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014784</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014784"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1223,7 +1223,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中利用外源性扰动（如大流行干预）解耦种间相互作用与季节性等混杂因素提供了直接范例，可迁移至其他多物种群落动态分析；其贝叶斯状态空间框架可直接应用于物种多度时间序列，以推断竞争或合作相互作用。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014784</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 信号太弱无法感知：鸟类基于电磁感应的磁感受的物理与信息论极限</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260332/483289/Signals-too-small-to-sense-physical-and</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014784</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 信号太弱无法感知：鸟类基于电磁感应的磁感受的物理与信息论极限</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260332/483289/Signals-too-small-to-sense-physical-and</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260332/483289/Signals-too-small-to-sense-physical-and"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1240,7 +1240,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物磁感受这一行为学难题提供了定量的信息论约束，推动了对导航机制可行性的严格评估；其建模与信息论分析方法可直接迁移至其他感觉系统的信号检测极限研究，如化学感受或声学导航的信息容量分析。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260332/483289/Signals-too-small-to-sense-physical-and</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 四种不同深度分布蝠鲼科鱼类颅骨固定 tessellated 软骨的生物力学与组成</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251331/483293/Biomechanics-and-composition-of-fixed-neurocranial</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260332/483289/Signals-too-small-to-sense-physical-and</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 四种不同深度分布蝠鲼科鱼类颅骨固定 tessellated 软骨的生物力学与组成</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251331/483293/Biomechanics-and-composition-of-fixed-neurocranial</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251331/483293/Biomechanics-and-composition-of-fixed-neurocranial"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1257,7 +1257,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究揭示了深度适应与软骨水合程度及力学性能的关联，为宏观生态学中表型可塑性随环境梯度（如深度）变化提供了直接证据；其方法（力学测试结合组成分析）可迁移至其他类群的骨骼或硬组织适应研究，以探讨环境压力下的进化权衡。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251331/483293/Biomechanics-and-composition-of-fixed-neurocranial</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 不同鞍座高度下的骑行节奏选择最小化肌肉激活而非能量消耗</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260006/483296/Cycling-cadence-selections-at-different-saddle</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251331/483293/Biomechanics-and-composition-of-fixed-neurocranial</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 不同鞍座高度下的骑行节奏选择最小化肌肉激活而非能量消耗</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260006/483296/Cycling-cadence-selections-at-different-saddle</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260006/483296/Cycling-cadence-selections-at-different-saddle"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1274,7 +1274,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物行为决策的“目标函数”提供了直接证据：神经控制可能优先最小化肌肉激活而非能量消耗，这挑战了行为生态学中广泛使用的能量最大化假设。可迁移至宏观行为分析，例如利用加速度或肌电数据构建代理目标函数，检验野生动物运动节奏选择是否同样偏离能量最优。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260006/483296/Cycling-cadence-selections-at-different-saddle</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 整合机器学习与数据驱动建模：预测巴西登革热暴发并揭示气候驱动因素的空间异质性</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260071/483308/Integrating-machine-learning-and-data-driven</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260006/483296/Cycling-cadence-selections-at-different-saddle</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 整合机器学习与数据驱动建模：预测巴西登革热暴发并揭示气候驱动因素的空间异质性</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260071/483308/Integrating-machine-learning-and-data-driven</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260071/483308/Integrating-machine-learning-and-data-driven"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1291,7 +1291,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究将物理信息神经网络与XGBoost-SHAP结合，用于分析气候驱动因素的空间异质性，可直接迁移至其他病媒传播疾病或物种分布建模中，通过输入气候与监测数据揭示驱动因子的空间变异。其方法框架也可用于生态学中时空动态预测与驱动因素解析，如种群暴发预测或入侵物种扩散。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260071/483308/Integrating-machine-learning-and-data-driven</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用人工神经网络预测细菌性阴道病发病率</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014768</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260071/483308/Integrating-machine-learning-and-data-driven</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 利用人工神经网络预测细菌性阴道病发病率</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014768</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014768"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1308,7 +1308,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究将ANN和SHAP应用于微生物群落时间序列数据，预测群落状态转变，可直接迁移至宏观生态学中的群落动态预测（如物种多度矩阵预测生态系统状态变化）。其方法为生态学中利用机器学习进行早期预警提供了可借鉴的框架。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014768</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 动态振动反馈塑造圆网蜘蛛的捕食者-猎物相互作用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014802</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014768</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 动态振动反馈塑造圆网蜘蛛的捕食者-猎物相互作用</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014802</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014802"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1325,7 +1325,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为理解动物主动传感与闭环反馈提供了行为学范例，其高分辨率振动记录与无监督行为建模方法可直接迁移至其他物种的振动通讯或捕食行为研究，推动感觉生态学与行为动力学交叉领域的发展。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014802</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 进化救援模型为驱动癌细胞群体灭绝提供策略</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014803</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014802</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 进化救援模型为驱动癌细胞群体灭绝提供策略</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014803</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014803"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1342,7 +1342,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究的克隆种群进化模拟框架可直接迁移至宏观生态学中的濒危物种保护与害虫抗性治理：将“治疗”映射为管理干预（如栖息地改造、选择性捕捞），将“耐药突变”映射为物种适应性进化，利用灭绝疗法思想优化干预时序以降低抗性进化风险。其多打击序贯策略与交叉耐药分析为生态管理中的“进化救援”与“抗性管理”提供了可计算的决策工具。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014803</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于二倍体丰度模型的GT-seq直接微单倍型基因分型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014808</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014803</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于二倍体丰度模型的GT-seq直接微单倍型基因分型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014808</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014808"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1359,7 +1359,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该方法可直接应用于生态学与进化研究中的高通量基因分型，例如在非模式生物中利用微单倍型进行种群遗传结构、亲缘关系及适应性变异分析，提升基因型准确性与可重复性。其丰度排序与目录匹配策略也可迁移至其他高深度测序数据的等位基因识别问题。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014808</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 习惯性非后足着地模式在水平与上坡跑中减弱冲击负荷但在下坡跑中无此效果</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251213/483357/Habitual-non-rearfoot-strike-pattern-attenuates</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014808</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 习惯性非后足着地模式在水平与上坡跑中减弱冲击负荷但在下坡跑中无此效果</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251213/483357/Habitual-non-rearfoot-strike-pattern-attenuates</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251213/483357/Habitual-non-rearfoot-strike-pattern-attenuates"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1376,7 +1376,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究为行为学直接研究，揭示了跑步足着地模式在不同坡度下的适应性调整及负荷再分布机制，可启发对动物运动行为（如四足动物在不同地形下的步态转换与关节负荷分配）的比较研究，但方法本身不直接迁移至宏观生态数据。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251213/483357/Habitual-non-rearfoot-strike-pattern-attenuates</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 视觉-惯性整合使熊蜂能够在快速移动的花朵上着陆</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251198/483371/Visual-inertial-integration-enables-bumblebees-to</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251213/483357/Habitual-non-rearfoot-strike-pattern-attenuates</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 视觉-惯性整合使熊蜂能够在快速移动的花朵上着陆</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251198/483371/Visual-inertial-integration-enables-bumblebees-to</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251198/483371/Visual-inertial-integration-enables-bumblebees-to"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1393,7 +1393,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物行为学中运动控制与感觉整合提供了直接证据，推进了对熊蜂在动态环境中着陆策略的理解；其系统辨识和控制理论建模方法可迁移至其他动物的运动行为分析，如鸟类或蝙蝠的移动目标追踪。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251198/483371/Visual-inertial-integration-enables-bumblebees-to</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 迈向生态系统多稳态的统一框架</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260479/483375/Towards-a-unified-framework-for-multiple-stable</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251198/483371/Visual-inertial-integration-enables-bumblebees-to</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 迈向生态系统多稳态的统一框架</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260479/483375/Towards-a-unified-framework-for-multiple-stable</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260479/483375/Towards-a-unified-framework-for-multiple-stable"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1410,7 +1410,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该综述为生态学中多稳态现象提供了统一的理论框架，有助于识别生态系统临界转变的早期预警信号，并指导生态恢复与管理实践。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260479/483375/Towards-a-unified-framework-for-multiple-stable</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 人类对自然听觉场景中鸟类生物多样性的感知</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014775</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260479/483375/Towards-a-unified-framework-for-multiple-stable</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 人类对自然听觉场景中鸟类生物多样性的感知</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014775</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014775"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1427,7 +1427,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为生物多样性感知提供了行为学证据，可迁移至生态学中利用声学指数评估鸟类多样性的研究，例如将人类听觉的汇总统计量机制作为声学监测模型的特征提取依据，或用于设计基于听觉感知的鸟类多样性快速评估方法。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014775</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 颌部运动学与基频动态表明大狐猴歌声中存在声道调谐</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014781</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014775</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 颌部运动学与基频动态表明大狐猴歌声中存在声道调谐</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014781</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014781"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1444,7 +1444,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物行为学与生物声学提供了直接证据，推进了对灵长类发声产生机制和远距离通讯适应策略的理解；其无标记姿态估计与帧级声学分析结合的多模态方法，可迁移至其他物种的发音动力学与声学输出关系研究。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014781</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 海马重放的漂移-扩散动力学</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014761</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014781</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 海马重放的漂移-扩散动力学</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014761</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014761"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1461,7 +1461,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究的漂移-扩散状态切换模型可直接迁移至动物运动轨迹或行为序列的宏观分析，例如识别觅食路径中的定向漂移与随机搜索状态；其均方位移二次缩放检验也可用于检测生态轨迹中的方向持续性。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014761</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 分布式多智能体强化学习的确定性动力学</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014723</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014761</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 分布式多智能体强化学习的确定性动力学</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014723</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014723"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1478,7 +1478,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究直接推进了行为生态学中关于个体决策偏差（如乐观）如何影响社会协调与集体行为的理解，其分布式强化学习框架可迁移至动物觅食、合作行为等场景，通过输入个体选择序列数据来检验认知偏差对群体动态的影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014723</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于三元组的物种树估计：对基因树定根（或缺乏定根）的敏感性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014782</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014723</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 基于三元组的物种树估计：对基因树定根（或缺乏定根）的敏感性</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014782</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014782"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1495,7 +1495,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观演化中的物种树估计提供了方法学改进，直接应用于系统发育基因组学数据分析，有助于更准确地重建物种演化历史。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014782</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 多层网络中与意见动力学耦合促进亲社会行为</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014810</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014782</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 多层网络中与意见动力学耦合促进亲社会行为</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014810</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014810"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1512,7 +1512,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为理解动物合作行为的维持提供了新视角：即使群体中仅部分互动涉及社会困境，其他非困境互动（如信息传播或偏好形成）也能通过多层网络耦合促进合作。具体迁移路径包括：在实证动物社交网络中，将觅食合作层与信息传递层分别建模，检验非困境层对合作演化的增强效应。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014810</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 分解反应抑制：一个POMDP模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014068</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014810</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 分解反应抑制：一个POMDP模型</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014068</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014068"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1529,7 +1529,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究的POMDP状态空间建模与Transformer-SBI摊销推断方法可直接迁移至动物行为轨迹分析，例如将停止信号任务替换为觅食或避敌决策任务，从轨迹数据中推断个体认知/行为参数；其连续流形分析为生态行为表型维度研究提供了可落地的计算框架。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014068</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 城市环境中蚊媒传染病有效再生数估计的准确性如何？</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251184/483425/How-accurate-are-effective-reproduction-number</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014068</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 城市环境中蚊媒传染病有效再生数估计的准确性如何？</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20251184/483425/How-accurate-are-effective-reproduction-number</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20251184/483425/How-accurate-are-effective-reproduction-number"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1546,7 +1546,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为宏观生态学中的空间传播动力学与疾病生态学提供了直接的方法论推进：它揭示了在具有长距离移动（人类通勤）的宿主-媒介系统中，局部传播假设会导致Rt估计偏差，这可直接迁移至分析其他空间生态过程（如入侵物种扩散、传粉者网络中的病原体传播）中局部与区域尺度过程的解耦问题。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251184/483425/How-accurate-are-effective-reproduction-number</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 流树：导航动力学与环境复杂性的模型</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20250944/483447/Flow-Tree-a-model-for-navigator-dynamics-and</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20251184/483425/How-accurate-are-effective-reproduction-number</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 流树：导航动力学与环境复杂性的模型</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20250944/483447/Flow-Tree-a-model-for-navigator-dynamics-and</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20250944/483447/Flow-Tree-a-model-for-navigator-dynamics-and"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1563,7 +1563,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物行为学中的轨迹分析提供了新工具：Flow Tree可应用于动物觅食、迁徙等轨迹数据，量化群体决策动态和个体差异，超越传统静态指标。具体迁移路径包括将动物轨迹输入Flow Tree构建算法，比较不同物种或环境下的导航策略。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20250944/483447/Flow-Tree-a-model-for-navigator-dynamics-and</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 电刺激预激活跖屈肌可诱导更经济的行走</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260146/483455/Priming-the-plantarflexors-with-electrical</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20250944/483447/Flow-Tree-a-model-for-navigator-dynamics-and</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][Journal of The Royal Society Interface Current Issue] 电刺激预激活跖屈肌可诱导更经济的行走</title><link>https://royalsocietypublishing.org/rsif/article/23/242/20260146/483455/Priming-the-plantarflexors-with-electrical</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/242/20260146/483455/Priming-the-plantarflexors-with-electrical"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1580,7 +1580,7 @@
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
             &lt;p&gt;该研究为动物运动行为（如迁徙、觅食步态）的能量优化提供了直接的行为学与生物力学证据，可启发对动物运动策略中代谢成本最小化假设的检验。具体迁移路径：将最优控制模拟与电刺激干预范式应用于动物运动行为实验，分析步态参数与能量消耗的关系。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260146/483455/Priming-the-plantarflexors-with-electrical</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 情境依赖的特征调制塑造人类在趋近-回避冲突中的决策策略</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014793</link><description>
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/242/20260146/483455/Priming-the-plantarflexors-with-electrical</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 情境依赖的特征调制塑造人类在趋近-回避冲突中的决策策略</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014793</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014793"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1599,7 +1599,7 @@ These findings suggest that adaptive behavior in sequential decision-making aris
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为生态学中的觅食行为研究提供了可迁移的框架：其序贯觅食任务和MDP建模可直接用于分析动物在捕食风险与食物奖励权衡下的决策策略，特别是情境依赖的特征权重变化。具体迁移路径包括将分层贝叶斯模型应用于动物轨迹或选择数据，以检验风险情境下对奖励信息的依赖变化。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014793</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 结构化种群中的混合更新规则</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014829</link><description>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014793</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 结构化种群中的混合更新规则</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014829</link><description>
             &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
             &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014829"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
             &lt;hr/&gt;
@@ -1616,4 +1616,89 @@ These findings suggest that adaptive behavior in sequential decision-making aris
             &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
             &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
             &lt;p&gt;该研究为理解种群空间结构如何影响进化过程（如突变固定）提供了统一框架，可直接迁移至宏观生态学中物种竞争、合作行为传播等问题的建模，例如利用混合更新规则分析生境破碎化对适应性扩散的影响。&lt;/p&gt;
-            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014829</guid><pubDate>Mon, 05 Oct 2026 04:45:58 +0000</pubDate></item></channel></rss>
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014829</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 基于高分辨率人类移动网络模拟植物病害传播</title><link>https://royalsocietypublishing.org/rsif/article/23/243/20260213/483522/Modelling-plant-disease-spread-via-high-resolution</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/243/20260213/483522/Modelling-plant-disease-spread-via-high-resolution"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Modelling plant disease spread via high-resolution human mobility networks&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;基于高分辨率人类移动网络模拟植物病害传播&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;
+            &lt;p&gt;Abstract Human mobility plays a crucial role in the spread of human diseases but is rarely quantified in plant disease epidemics. To address this gap, we integrate a unique, high-resolution network of human movements in New Zealand with a metapopulation model to mechanistically simulate pathogen transmission. We calibrate the model on the nationwide 2010 kiwifruit vine disease (Psa-V) outbreak and show that it reproduces the observed spatio-temporal spread, confirming that the human mobility network is a strong foundation for modelling human-mediated transmission dynamics. By analysing spatial infection trends, we find that most dispersal occurs locally, as often illustrated in the plant-outbreak literature. However, sporadic long-range connections are necessary to model a nationwide outbreak. Using the model as an in silico laboratory, we demonstrate that the severity of human-mediated pathogen transmission is highly sensitive to the timing and location of initial importation. We observe a potential causal link between seasonal labour patterns and epidemic risk in high-traffic seasons. This study showcases a novel data-driven framework for modelling the spatio-temporal spread of agricultural pathogens when human-mediated dispersal is epidemiologically relevant, underscoring the importance of leveraging human mobility networks for building better biosecurity systems.&lt;/p&gt;
+            &lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;
+            &lt;p&gt;人类移动在人类疾病传播中至关重要，但在植物病害流行中鲜有量化。为填补这一空白，我们将新西兰高分辨率人类移动网络与集合种群模型整合，以机制性模拟病原体传播。基于2010年全国猕猴桃溃疡病（Psa-V）暴发校准模型，结果显示模型重现了观测到的时空传播，证实人类移动网络是模拟人类介导传播动态的坚实基础。通过分析空间感染趋势，我们发现大部分传播发生在局部，正如植物暴发文献中常见的那样；然而，零星的长距离连接对于模拟全国性暴发是必要的。利用该模型作为计算机模拟实验室，我们证明人类介导的病原体传播严重程度对初始引入的时间和地点高度敏感。我们观察到季节性劳动力模式与高流量季节的流行风险之间存在潜在因果联系。本研究展示了一个新颖的数据驱动框架，用于在人类介导传播具有流行病学相关性时模拟农业病原体的时空传播，强调了利用人类移动网络构建更好生物安全系统的重要性。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究为宏观生态学中疾病传播与空间流行病学提供了直接范例：利用高分辨率人类移动网络作为传播介质，结合集合种群模型，可迁移至其他人类介导的物种或病原体传播研究（如入侵物种、人畜共患病）。其数据驱动框架和敏感性分析思路可直接用于评估生态保护中的生物安全策略。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/243/20260213/483522/Modelling-plant-disease-spread-via-high-resolution</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][Journal of The Royal Society Interface Current Issue] 从随机行走到热气流搭乘：滑翔飞行中普适的异常输运</title><link>https://royalsocietypublishing.org/rsif/article/23/243/20260227/483523/From-random-walks-to-thermal-rides-universal</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; Journal of The Royal Society Interface Current Issue&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://royalsocietypublishing.org/rsif/article/23/243/20260227/483523/From-random-walks-to-thermal-rides-universal"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;From random walks to thermal rides: universal anomalous transport in soaring flights&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;从随机行走到热气流搭乘：滑翔飞行中普适的异常输运&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;
+            &lt;p&gt;Abstract Cross-country soaring flights rely on intermittent atmospheric updrafts to cover long distances, producing trajectories that alternate between rapid relocation and local exploration. From a large dataset of paraglider, hang glider and sailplane flights, we uncover a universal transport law: beyond short ballistic times, horizontal motion is persistently sub-ballistic, with a Hurst exponent ≈0.88 largely independent of aircraft type. Phase-resolved analysis using a probabilistic segmentation method shows that this scaling arises from the fundamentally intermittent, two-dimensional and directionally correlated nature of soaring transport, in which successive ballistic segments do not add coherently. We find that pilot skill, reflected in more efficient exploration and decision-making, manifests primarily in the search phase, enhancing the ability to efficiently probe the air mass and locate the next thermal. Overall, our results suggest that atmospheric structure and the generic organization of the transition–search–climb cycle dominate transport properties, placing human soaring alongside biological and physical systems where anomalous transport emerges from intermittency and persistence.&lt;/p&gt;
+            &lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;
+            &lt;p&gt;越野滑翔飞行依赖间歇性大气上升气流实现长距离移动，其轨迹在快速转移与局部探索之间交替。基于滑翔伞、悬挂滑翔机和翱翔机的大量飞行数据集，我们揭示了一个普适的输运定律：在短时弹道运动之后，水平运动持续呈现亚弹道特征，Hurst指数约为0.88，且基本不依赖于飞行器类型。利用概率分割方法进行的相位分辨分析表明，这种标度律源于滑翔输运本质上的间歇性、二维性和方向相关性，其中连续的弹道段无法相干叠加。我们发现，反映在更高效探索与决策中的飞行员技能主要体现在搜索阶段，增强了对气团的高效探测和定位下一个热气流的能力。总体而言，我们的结果表明，大气结构和转移-搜索-爬升循环的一般组织主导了输运性质，将人类滑翔飞行置于由间歇性和持续性产生异常输运的生物与物理系统之列。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究为动物运动生态学提供了可直接迁移的轨迹分析框架：利用概率分割方法识别行为状态（如搜索与转移），并计算Hurst指数刻画异常扩散，可应用于鸟类、海洋哺乳动物等觅食轨迹的间歇性输运分析。其发现——技能或个体差异主要影响搜索阶段而非全局标度——提示在生态保护中应重点关注搜索行为的效率与决策机制。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://royalsocietypublishing.org/rsif/article/23/243/20260227/483523/From-random-walks-to-thermal-rides-universal</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 人口流动阻碍巴西亚马逊地区的疟疾消除目标</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014843</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014843"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Mobility hinders malaria elimination goals in the Brazilian Amazon&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;人口流动阻碍巴西亚马逊地区的疟疾消除目标&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;
+            &lt;p&gt;by Nicholas J. Arisco, Pablo S. Fontoura, Cassio Peterka, Marcia C. Castro Introduction Human mobility across the Brazilian Amazon—shaped by frontier development, land-use change, mining activity, and climatic shocks—remains a major barrier to malaria elimination. Brazil aims to eliminate Plasmodium falciparum (Pf) by 2030 and Plasmodium vivax (Pv) by 2035, yet malaria incidence has plateaued since 2020. We quantify parasite-specific mobility and assess how importations drive malaria reintroduction and reestablishment in areas approaching elimination. Methods We analyzed 5,521,411 de-identified malaria cases from Sivep-Malaria (2003–2023) across 808 municipalities in the nine-state Brazilian Amazon. We (i) used multivariable monthly sequence analysis to classify “Municipal Malaria Importation Trajectories” (MMITs) using local/imported composition, incidence per 1,000, and source/sink network typologies; (ii) characterized mobility networks by parasite species and locality type (rural, urban, settlement, indigenous, mining); and (iii) developed a parasite-specific rule-based classification procedure to identify reintroduction, and defined reestablishment as sustained local transmission. Results Sequence analysis produced five MMIT clusters, spanning municipalities nearing elimination to areas with sustained high local transmission and distinct profiles of declining transmission with intense vs. moderate importation. Overall, 959,281 cases (17.38%) were imported. Cases were predominantly Pv (81.68%), with Pf comprising 17.15%; Pf was more common among imported than locally acquired infections. Mobility patterns shifted after mid-2020: by 2023, &gt; 50% of exported cases originated in mining localities despite ~0.2% land coverage, with Pf importation increasingly concentrated in municipalities overlapping the Yanomami Indigenous Land. From 2006–2023, we identified 63 Pf and 221 Pv reintroduced locally acquired cases following ≥3 years of zero local transmission, leading to reestablishment in 6 and 23 municipalities, respectively, and generating 864 subsequent Pf and 6,524 subsequent Pv cases. Post-reintroduction transmission persisted for long periods (mean 762 days for Pf ; 815 days for Pv ). Conclusion Malaria elimination in Brazil is increasingly hindered by parasite-specific mobility, especially linked to mining–indigenous confluences, and by repeated reintroduction in receptive municipalities nearing elimination (notably along the arc of deforestation). Mobility-informed surveillance and targeted reactive strategies are essential to achieve and sustain Brazil’s malaria elimination goals.&lt;/p&gt;
+            &lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;
+            &lt;p&gt;人类流动（受边疆开发、土地利用变化、采矿活动和气候冲击影响）是巴西亚马逊地区疟疾消除的主要障碍。巴西计划在2030年消除恶性疟原虫（Pf），2035年消除间日疟原虫（Pv），但自2020年以来疟疾发病率趋于平稳。本研究量化了寄生虫特异性的流动模式，并评估输入病例如何驱动接近消除地区的疟疾再引入和再建立。方法：分析2003-2023年巴西法定亚马逊地区808个市镇的5,521,411例匿名疟疾病例。采用多变量月度序列分析对“市级疟疾输入轨迹”（MMITs）进行分类；按寄生虫种类和地区类型（农村、城市、定居点、原住民区、矿区）刻画流动网络；开发基于规则的寄生虫特异性分类程序识别再引入，并将再建立定义为持续本地传播。结果：序列分析产生五个MMIT聚类，涵盖接近消除的市镇到持续高本地传播地区，以及输入强度不同的传播下降模式。总体输入病例959,281例（17.38%），以Pv为主（81.68%），Pf占17.15%；Pf在输入感染中比本地感染更常见。2020年中期后流动模式转变：到2023年，&gt;50%的输出病例来自矿区（尽管矿区仅占约0.2%土地面积），Pf输入日益集中在与亚诺马米原住民土地重叠的市镇。2006-2023年，在≥3年零本地传播后，识别出63例Pf和221例Pv再引入本地感染，分别导致6个和23个市镇再建立，并产生864例后续Pf和6,524例后续Pv病例。再引入后传播持续较长时间（Pf平均762天，Pv平均815天）。结论：巴西疟疾消除日益受到寄生虫特异性流动的阻碍，尤其是与采矿-原住民交汇区相关，以及接近消除的易感市镇（特别是沿森林砍伐弧线）的反复再引入。基于流动信息的监测和针对性反应策略对于实现和维持巴西疟疾消除目标至关重要。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究为宏观生态学中的入侵生物学和疾病生态学提供了直接范例：其“再引入-再建立”框架和流动网络分析可迁移至物种入侵、病原体传播等研究，例如利用类似序列分析识别入侵轨迹，或通过网络拓扑预测传播源-汇动态。具体数据迁移路径包括：将市镇替换为生境斑块，病例替换为个体/物种出现记录，流动矩阵替换为扩散核，从而检验移动性对集合种群持久性的影响。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014843</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[4分][PLOS Computational Biology] 联合混合Tobit方法利用潜在微生物丰度改进零膨胀数据中微生物组-疾病关联的检测</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014844</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014844"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;A joint mixture Tobit method with latent microbial abundance improves detection of microbiome–disease associations in zero-inflated data&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;联合混合Tobit方法利用潜在微生物丰度改进零膨胀数据中微生物组-疾病关联的检测&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;
+            &lt;p&gt;by Junrong Deng, Dong Chen, Siyuan Shen, Yuyang Zhou, Hanyu Cui, Yu Qiu, Qiming Li, Yue-Qing Hu Zero inflation remains a major challenge in microbiome differential abundance analysis, often resulting in inflated type I error rates or reduced statistical power. Although numerous methods have been proposed to address excess zeros, many existing approaches do not explicitly distinguish between distinct zero-generating mechanisms, and censoring-based modeling perspectives remain relatively underexplored in microbiome data analysis. To advance methodological development in this area, we introduce a novel censoring-based modeling perspective for microbiome differential abundance analysis. Specifically, we develop a joint mixture Tobit (joint mTobit) method for zero-inflated microbiome data. Building on a mixture Tobit formulation, the model incorporates a point-mass component to represent structural zeros, while modeling latent microbial abundance via a Tobit regression component. The proposed framework jointly links disease status, latent true microbial abundance, and relevant covariates within a unified probabilistic model, allowing appropriate adjustment for confounding factors and facilitating more reliable statistical inference. By explicitly modeling the latent abundance underlying observed counts, the joint mTobit method improves estimation stability and enhances detection power under zero inflation. Extensive simulation studies demonstrate that the joint mTobit method achieves effective type I error control while maintaining high statistical power and stable coefficient estimation across a wide range of settings. Application to a real-world colorectal cancer and adenoma microbiome dataset further illustrates its ability to identify biologically meaningful differentially abundant taxa. Overall, this work develops a joint mTobit modeling framework for zero-inflated microbiome data, enabling inference on latent microbial abundance and providing a censoring-based statistical framework for investigating disease–microbiome associations in differential abundance analysis.&lt;/p&gt;
+            &lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;
+            &lt;p&gt;零膨胀是微生物组差异丰度分析中的主要挑战，常导致I类错误率膨胀或统计功效降低。尽管已有众多方法处理过量零值，但许多现有方法未明确区分不同的零生成机制，且基于删失的建模视角在微生物组数据分析中仍相对未被充分探索。为推动该方法学领域的发展，我们引入了一种新的基于删失的建模视角用于微生物组差异丰度分析。具体而言，我们开发了一种联合混合Tobit（joint mTobit）方法用于零膨胀微生物组数据。基于混合Tobit公式，该模型纳入一个点质量成分以表示结构性零值，同时通过Tobit回归成分对潜在微生物丰度进行建模。所提出的框架在一个统一的概率模型内联合连接疾病状态、潜在真实微生物丰度和相关协变量，允许对混杂因素进行适当调整并促进更可靠的统计推断。通过显式建模观测计数背后的潜在丰度，联合mTobit方法提高了估计稳定性并在零膨胀下增强了检测功效。大量模拟研究表明，联合mTobit方法在广泛设置下实现了有效的I类错误控制，同时保持高统计功效和稳定的系数估计。应用于真实的结直肠癌和腺瘤微生物组数据集进一步展示了其识别具有生物学意义的差异丰度分类群的能力。总体而言，这项工作为零膨胀微生物组数据开发了一个联合mTobit建模框架，能够对潜在微生物丰度进行推断，并为差异丰度分析中研究疾病-微生物组关联提供了一个基于删失的统计框架。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 4 / 5&lt;/p&gt;
+            &lt;p&gt;该方法的数学结构（混合Tobit模型处理零膨胀计数数据）可直接迁移至宏观生态学中常见的零膨胀物种多度数据（如eDNA、相机陷阱、样点调查数据），用于差异丰度或环境关联分析，提升对结构性零值和抽样零值的区分能力与统计功效。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014844</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item><item><title>[5分][PLOS Computational Biology] 真社会性昆虫群体的动态劳动力调节与觅食效率</title><link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014258</link><description>
+            &lt;p&gt;&lt;strong&gt;来源期刊：&lt;/strong&gt; PLOS Computational Biology&lt;/p&gt;
+            &lt;p&gt;&lt;a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014258"&gt;查看论文原文网页&lt;/a&gt;&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原标题】&lt;/h3&gt;
+            &lt;p&gt;Dynamic workforce modulation and foraging efficiency in Eusocial insect colonies&lt;/p&gt;
+            &lt;h3&gt;【中文标题】&lt;/h3&gt;
+            &lt;p&gt;真社会性昆虫群体的动态劳动力调节与觅食效率&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【英文原文摘要】&lt;/h3&gt;
+            &lt;p&gt;by Daniel Campos, Javier Cristín, Pol Fernández-López, Roger Lloret-Cabot, Meritxell Genovart, Frederic Bartumeus Understanding the fitness advantages conferred by eusociality remains a central challenge in behavioral ecology. One promising approach is to identify collective strategies that shift efficiency within social groups. Here, we explore the hypothesis that reserve workforces in ant colonies represent an adaptive mechanism that enhances flexibility and foraging efficiency under fluctuating environmental conditions. We examine how departure and return rates of foragers modulate such reserve workers and how these time-dependent dynamics shape the colony’s overall energetic balance. By integrating an energetic-balance framework with stochastic search simulations inspired by empirical results from four colonies of Aphaenogaster senilis ants, we quantify the energetic requirements for colony viability, incorporating energy intake, search costs, and basal metabolic demands. Our results show that as colonies grow, maintaining a positive energy balance requires a disproportionately larger relative workforce. By modulating departure and return rates over time, colonies control the synchrony of their collective search and efficiently activate or suppress their reserve workforce to scale foraging effort as needed. These findings suggest that the “lazy” or weakly engaged workers commonly observed in large colonies function as an essential reserve that stabilizes colony energetics and enhances responsiveness. Together, our results provide a functional explanation for sublinear metabolic scaling in eusocial groups and highlight workforce modulation as a key factor underlying their energetic stability and evolutionary success.&lt;/p&gt;
+            &lt;h3&gt;【中文摘要翻译】&lt;/h3&gt;
+            &lt;p&gt;理解真社会性所赋予的适应优势仍是行为生态学的核心挑战。一种有前景的方法是识别社会群体内提升效率的集体策略。本文探讨了蚂蚁群落中的储备劳动力代表一种适应性机制，能在波动环境条件下增强灵活性和觅食效率的假说。我们考察了觅食者的出发和返回速率如何调节这些储备工蚁，以及这些时间依赖动态如何塑造群落的整体能量平衡。通过将能量平衡框架与受四种Aphaenogaster senilis蚂蚁实证结果启发的随机搜索模拟相结合，我们量化了群落存续的能量需求，纳入能量摄入、搜索成本和基础代谢需求。结果表明，随着群落增长，维持正能量平衡需要不成比例地更大的相对劳动力。通过随时间调节出发和返回速率，群落控制其集体搜索的同步性，并高效激活或抑制储备劳动力以按需调整觅食努力。这些发现表明，在大群落中常见的“懒惰”或低参与度工蚁作为必要储备，稳定了群落能量并增强了响应能力。总之，我们的结果为真社会性群体的亚线性代谢缩放提供了功能解释，并强调劳动力调节是其能量稳定和进化成功的关键因素。&lt;/p&gt;
+            &lt;hr/&gt;
+            &lt;h3&gt;【生态学借鉴价值与启发】&lt;/h3&gt;
+            &lt;p&gt;&lt;strong&gt;相关度评分：&lt;/strong&gt; 5 / 5&lt;/p&gt;
+            &lt;p&gt;该研究将能量平衡模型与随机搜索模拟结合，直接量化了蚂蚁群落觅食动态与劳动力储备的生态功能，为理解社会性昆虫的群体能量学与适应性提供了机制性解释。其方法可迁移至其他社会性动物或集体行为系统的能量-行为耦合分析。&lt;/p&gt;
+            </description><guid isPermaLink="false">https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014258</guid><pubDate>Mon, 12 Oct 2026 05:04:48 +0000</pubDate></item></channel></rss>
