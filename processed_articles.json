@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013610",
+    "source_journal": "PLOS Computational Biology",
+    "title_en": "SwimmingIndividuals: A high-performance agent-based model for marine ecosystems",
+    "title_zh": "SwimmingIndividuals：一个用于海洋生态系统的高性能基于个体的模型",
+    "summary_zh": "基于个体模型（ABM）因计算限制而难以在大生态尺度应用。本文介绍开源框架SwimmingIndividuals，采用Julia编写的CPU/GPU混合架构，集成了视觉猎物探测、昼夜垂直迁移等适应性行为、灵活的生物能量学引擎和空间路径寻找算法，可模拟生理过程、动物运动、高营养级海洋生态系统动态及渔业捕捞。通过墨西哥湾三个模拟案例，模型再现了昼夜垂直迁移、鲸类潜水模式、基于体型的营养级转变和与王鲭鱼种群评估一致的von Bertalanffy生长曲线，长期模拟产生了现实的种群动态并量化了五种渔船的捕捞控制规则影响。该框架为机制性海洋生态系统研究和基于生态系统的渔业管理提供了强大、灵活的开源平台。",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013610",
+    "summary_en": "by Matthew S. Woodstock, Jann Paul Mattern, Zhen Wu, Gregory L. Britten Because they are based on established theory, mechanistic models are essential for projecting ecological responses to novel conditions. Yet mechanistic agent-based model (ABM) applications have often been limited by computational constraints. This paper introduces SwimmingIndividuals , an open-source ABM framework that advances our ability to simulate physiological processes, animal movement, higher trophic level marine ecosystem dynamics, and fisheries removals at large ecological scales. The software's key contributions are a suite of mechanistic sub-models governing the full life cycle of each agent, including visual prey detection, adaptive behaviors such as diel vertical migration (DVM), a flexible bioenergetics engine with three taxon-specific metabolic architectures, and a spatial pathfinding algorithm for habitat-seeking movement. These processes are made computationally tractable through a hybrid CPU/GPU architecture written in Julia. Unlike prior ABMs that use fixed perception radii or single-equation bioenergetics, SwimmingIndividuals enables emergent ecological dynamics across populations of superindividual agents. We demonstrate the framework through three Gulf of America simulations. The model reproduced DVM, cetacean diving patterns, size-based trophic shifts, and von Bertalanffy growth curves consistent with published King Mackerel stock assessments. Long-term simulations generated realistic population dynamics and quantified impacts of fishery harvest control rules across five fleets. SwimmingIndividuals provides a powerful, flexible, open-source platform for mechanistic marine ecosystem research and ecosystem-based fisheries management.",
+    "relevance_score": 5,
+    "inspiration": "该框架通过整合个体行为机制与生物能量学，能够模拟鱼类种群对渔业管理和环境变化的响应，为基于生态系统的渔业管理提供可操作的模拟工具；其开源架构和GPU加速使得大规模个体模拟成为可能，可直接用于分析动物运动轨迹和种群动态数据。",
+    "published": "2026-11-06T14:00:00Z"
+  },
+  {
+    "id": "https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014875",
+    "source_journal": "PLOS Computational Biology",
+    "title_en": "Social manipulations trigger shifts in group-level dominance patterns",
+    "title_zh": "社会操纵触发群体水平支配模式的转变",
+    "summary_zh": "在支配等级中，个体常根据自身及他人的等级来发起攻击。当许多群体成员做出相同的等级相关攻击决策时，会涌现出更广泛的群体水平“支配模式”，进一步在等级框架内塑造攻击行为。然而，群体能否随时间改变其群体水平支配模式以及哪些因素驱动这些变化尚不清楚。我们通过实验操纵圈养僧鹦鹉（Myiopsitta monachus）群体，采用基于等级的定向移除和重新引入来诱导社会不稳定，从而研究攻击动态。实验扰动后支配模式常发生转变，而无扰动时保持稳定。被扰动个体的等级影响了个体攻击决策和观察到的支配模式转变。特别是，顶级鸟类的重新引入导致攻击行为和支配模式发生显著变化。理解塑造这些动态的因素有助于解释动物社会如何应对社会扰动。",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014875",
+    "summary_en": "by Annemarie van der Marel, Xavier Francis, Claire L. O’Connell, Cesar O. Estien, Chelsea Carminito, V. Darby Moore, Elizabeth A. Hobson Within dominance hierarchies, individuals often direct aggression based on their own rank and the rank of others. When many group members make the same rank-informed aggression decisions, a broader group-level “dominance pattern” can emerge which further structures aggression within the framework of the dominance hierarchy. However, whether groups can change their group-level dominance patterns over time, and what factors might drive these changes, are not well understood. We investigated aggression dynamics by experimentally manipulating captive groups of monk parakeets ( Myiopsitta monachus ) using targeted rank-based removals and reintroductions of group members to induce social instability. Dominance patterns often shifted after experimental perturbations but remained stable in their absence. The rank of the perturbed individual affected both individual aggression decisions and the shifts in dominance patterns observed. In particular, reintroductions of top-ranked birds led to marked changes in aggression and shifts in dominance patterns. Understanding the factors that shape these dynamics can help explain how animal societies respond to social disturbance.",
+    "relevance_score": 5,
+    "inspiration": "该研究通过实验操纵直接揭示了群体水平支配模式的可塑性与等级依赖性，推进了对动物社会结构动态变化机制的理解；其基于等级移除/引入的实验设计可迁移至其他社会性动物的群体稳定性与恢复力研究。",
+    "published": "2026-11-05T14:00:00Z"
+  },
+  {
+    "id": "https://royalsocietypublishing.org/rsif/article/23/244/20260304/484048/Distributed-elasticity-a-high-reward-moderate-risk",
+    "source_journal": "Journal of The Royal Society Interface Current Issue",
+    "title_en": "Distributed elasticity: a high-reward, moderate-risk strategy for efficient control modulation in insect flight",
+    "title_zh": "分布式弹性：昆虫飞行中高效控制调制的低风险高回报策略",
+    "summary_zh": "飞行昆虫的生存环境要求飞行效率与机动性之间的平衡。在昆虫间接飞行肌这类结构振荡器中，效率（源于共振）与机动性（源于运动学调制）通常此消彼长，调制会带来效率损失。带式共振现象理论上提供了一种通过仔细导航于高效运动学状态带来减轻这些损失的策略。然而，识别该带具有挑战性：目前尚无方法能在包含胸部和翅膀分布式弹性的真实运动模型中识别完整共振带，弹性分布对共振带的影响也未知。本研究解决了这两个开放问题。我们提出了一套数值方法，用于识别一般系统中的完整共振带。将其应用于具有分布式弹性（胸部与翅膀弯曲）的昆虫飞行运动模型，发现分布式弹性是一种中等风险但高回报的形态特征。良好调谐的分布可将共振带扩展四倍以上，而调谐不佳的分布则完全消除共振带。这些结果表明，在昆虫飞行运动中分布弹性具有适应价值，并激励更广泛的工作来识别不同物种间的弹性分布。",
+    "link": "https://royalsocietypublishing.org/rsif/article/23/244/20260304/484048/Distributed-elasticity-a-high-reward-moderate-risk",
+    "summary_en": "Abstract The environments inhabited by flying insects demand a balance between flight efficiency and flight manoeuvrability. In structural oscillators such as the insect indirect flight motor, efficiency (arising from resonance) and manoeuvrability (arising from kinematic modulation) are typically quid pro quo , with modulation incurring penalties to efficiency. Band-type resonance is a phenomenon that offers, in theory, a strategy to lessen these penalties via careful navigation through a band of efficient kinematic states. However, identifying this band is challenging: no methods exist to identify the complete band in realistic motor models, involving elasticity distributed across thorax and wing. Nor are the effects of elasticity distribution on the band known. In this work, we address both open topics. We present a suite of numerical methods for identifying the complete resonance band in general systems. Applying them to models of the insect flight motor with distributed elasticity—thoracic and wing flexion—reveals that distributed elasticity is moderate-risk, but high-reward, morphological feature. Well-tuned distributions expand the resonance band over fourfold, whereas poorly tuned distributions completely extinguish the resonance band. These results indicate that distributing elasticity across the insect flight motor can have an adaptive value, and they motivate broader work identifying distributions across species.",
+    "relevance_score": 5,
+    "inspiration": "该研究直接揭示昆虫飞行运动控制中弹性分布对共振带（效率-机动性权衡）的适应意义，为行为生态学中运动策略的进化分析提供机制基础；其数值方法可迁移至其他生物运动系统的共振带识别，但核心贡献在于行为学与功能形态学的直接研究。",
+    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "id": "https://royalsocietypublishing.org/rsif/article/23/244/20260240/484016/From-data-driven-differential-equations-to",
+    "source_journal": "Journal of The Royal Society Interface Current Issue",
+    "title_en": "From data-driven differential equations to mechanistic forecasting with machine learning",
+    "title_zh": "从数据驱动的微分方程到基于机器学习的机制性预测",
+    "summary_zh": "复杂动力系统的方程可能无法通过专家知识识别，尤其是在底层机制未知时。数据驱动的发现方法通过使用由测量变量构建的函数库从时间序列数据中推断控制方程来应对这一挑战。然而，这些方法通常假设系数是时间不变的，这限制了它们捕捉演化系统动态的能力。为了克服这一限制，我们允许一些参数随时间变化，直接从数据中学习它们的时间演化，并推断出一个同时包含常数参数和时变参数的方程组。然后，我们通过预测时变参数并将这些预测代入学习到的方程，将该框架转化为预测模型。该模型在模拟的易感者-感染者-恢复者系统和消费者-资源系统，以及真实世界的温室气体浓度和蓝藻细胞计数数据集上进行了验证。通过动态适应时间变化，我们提出的模型在学习时间序列时的平均绝对误差低于3%，在提前一个月的预测中低于6%。我们还比较了与卷积神经网络-长短期记忆网络和梯度提升机的预测性能，并表明我们的模型在大多数数据集上优于这些方法。我们的发现表明，将时变参数整合到数据驱动的微分方程发现中，可以提高建模准确性和预测性能。",
+    "link": "https://royalsocietypublishing.org/rsif/article/23/244/20260240/484016/From-data-driven-differential-equations-to",
+    "summary_en": "Abstract The equations of complex dynamical systems may not be identified by expert knowledge, especially if the underlying mechanisms are unknown. Data-driven discovery methods address this challenge by inferring governing equations from time-series data using a library of functions constructed from the measured variables. However, these methods typically assume time-invariant coefficients, which limits their ability to capture evolving system dynamics. To overcome this limitation, we allow some of the parameters to vary over time, learn their temporal evolution directly from data and infer a system of equations that incorporates both constant and time-varying parameters. We then transform this framework into a forecasting model by predicting the time-varying parameters and substituting these predictions into the learned equations. The model is validated on simulated susceptible–infected–recovered and consumer–resource systems, as well as on real-world greenhouse gas concentration and cyanobacteria cell count datasets. By dynamically adapting to temporal shifts, our proposed model achieved a mean absolute error below 3% for learning a time series and below 6% for forecasting up to a month ahead. We additionally compare forecasting performance against convolutional neural network–long short-term memory and gradient boosting machine, and show that our model outperforms these methods across most datasets. Our findings demonstrate that integrating time-varying parameters into data-driven discovery of differential equations improves both modelling accuracy and forecasting performance.",
+    "relevance_score": 5,
+    "inspiration": "该方法可直接应用于生态学中的种群动态建模（如消费者-资源系统）和生态系统变量预测（如蓝藻细胞计数），通过允许参数随时间变化来捕捉环境变化或管理干预下的动态，提升机制性预测能力。",
+    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+  },
+  {
     "id": "https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1014912",
     "source_journal": "PLOS Computational Biology",
     "title_en": "Taxonova: Deep learning enables fast and confidence-aware microbiome species-level amplicon classification",
