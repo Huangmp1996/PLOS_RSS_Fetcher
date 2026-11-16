@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://royalsocietypublishing.org/rsif/article/23/244/20260413/484128/Learning-spatial-transmission-maps-from-sparse",
+    "source_journal": "Journal of The Royal Society Interface Current Issue",
+    "title_en": "Learning spatial transmission maps from sparse outbreak snapshots with diffusion models",
+    "title_zh": "基于扩散模型从稀疏疫情快照中学习空间传播图",
+    "summary_zh": "空间异质性在疾病传播中是疫情动态的关键驱动因素，但从部分疫情观测中推断空间变化的传播图仍具挑战。标准机制模型常假设均匀传播，而数据驱动方法难以处理监测数据的稀疏性和随机性。我们证明条件扩散模型为解决空间流行病学中的这一逆问题提供了有效框架。在具有异质性传播场的格点上使用空间显式随机SIR模型，我们训练了一个条件扩散模型，从四个时间点的稀疏感染快照中生成传播景观的条件样本。我们还开发了一种通过伯努利观测模型考虑观测不确定性的方法，以解释现场监测中的不完美检测。在独立测试实现上的评估显示出强大的重建准确性，且不确定性估计对于来自训练分布的景观校准良好。关键的是，即使超过80%的感染未被观测到，该方法仍保持稳健。短期预测实验表明，扩散推断的异质性传播场相比均匀基线产生了改进的概率预测，并提供了更准确的空间风险图。这项工作确立了生成扩散模型作为空间流行病学推断的有前景工具，并可能应用于植物病害监测，以及更推测性地应用于媒介传播疾病制图和异质景观中的适应性管理。",
+    "link": "https://royalsocietypublishing.org/rsif/article/23/244/20260413/484128/Learning-spatial-transmission-maps-from-sparse",
+    "summary_en": "Abstract Spatial heterogeneity in disease transmission is a key driver of epidemic dynamics, yet inferring spatially varying transmission maps from partial outbreak observations remains challenging. Standard mechanistic models often assume homogeneous transmission, while data-driven approaches struggle with the sparse, stochastic nature of surveillance data. We demonstrate that conditional diffusion models provide an effective framework for solving this inverse problem in spatial epidemiology. Using a spatially explicit stochastic SIR model on a lattice with heterogeneous transmission fields, we train a conditional elucidated diffusion model to generate conditional samples of the transmission landscape from sparse infection snapshots at four time points. We also develop an approach to accommodate observation uncertainty through a Bernoulli observation model that accounts for imperfect detection during field surveillance. Evaluation on independent test realizations shows strong reconstruction accuracy, with uncertainty estimates that are well calibrated for landscapes drawn from the training distribution. Crucially, the method remains robust even when over 80% of infections are unobserved. Short-horizon forecasting experiments demonstrate that diffusion-inferred heterogeneous transmission fields yield improved probabilistic predictions compared to homogeneous baselines, with more accurate spatial risk maps. This work establishes generative diffusion models as a promising tool for spatial epidemiological inference, with potential applications to plant disease surveillance and, more speculatively, to vector-borne disease mapping and adaptive management in heterogeneous landscapes.",
+    "relevance_score": 4,
+    "inspiration": "该方法可直接输入网格化感染或物种分布数据，用于推断空间异质性传播或扩散场，推进生态学中疾病传播和物种分布扩散的建模与预测；其处理稀疏观测和观测不确定性的框架可迁移至野生动物疾病监测或入侵物种早期预警。",
+    "published": "Wed, 11 Nov 2026 00:00:00 GMT"
+  },
+  {
     "id": "https://journals.plos.org/ploscompbiol/feed/10.1371/journal.pcbi.1013610",
     "source_journal": "PLOS Computational Biology",
     "title_en": "SwimmingIndividuals: A high-performance agent-based model for marine ecosystems",
